@@ -422,21 +422,7 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:168142743
-#EXT-X-VERSION:3
-#EXT-X-PROGRAM-DATE-TIME:2023-04-13T23:10:23.048Z
-#EXTINF:10,
-audio1/5-168142743.ts
-#EXT-X-PROGRAM-DATE-TIME:2023-04-13T23:10:33.048Z
-#EXTINF:10,
-audio1/5-168142744.ts
-#EXT-X-PROGRAM-DATE-TIME:2023-04-13T23:10:43.048Z
-#EXTINF:10,
-audio1/5-168142745.ts
-#EXT-X-PROGRAM-DATE-TIME:2023-04-13T23:10:53.048Z
-#EXTINF:10,
-audio1/5-168142746.ts
+https://atres-live.atresmedia.com/18682fc789419a37ee82c4af46cd7f6ec620f3f0_ES_1681427415_1681456155/h264/live/mega/audio1/5-168142746.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
 http://309898745950272448.opword.xyz:80/play/vi0227137/TuvvHSrkAr/272448.ts
