@@ -8725,3 +8725,6 @@ http://127.0.0.1:6878/content/a2a7be4eefab6eee16437903586921200880b1da/0.1591887
 
 #EXTINF:-1 tvg-logo="https://www.elpuntavui.cat/imgpelis/05/25/0525193/baixa/0525193_CAR_OPERACION-FORTUNE-EL-GRAN-ENGANO-cartell.jpg" group-title="Peliculas" tvg-id="Operacion Fortune, El gran engaño 2023", Operacion Fortune, El gran engaño 2023
 http://127.0.0.1:6878/content/bd1737311c61902438c4822fe762e45aa87a6007/0.241201983454
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/04/nombreenlavepolonia.jpg" group-title="Peliculas" tvg-id="Novembre, Nombre en clave Polinia 2022", Novembre, Nombre en clave Polinia 2022
+http://127.0.0.1:6878/content/c7fb4e03cfc51cf16f543a20b5da49719779e19d/0.187436420121
