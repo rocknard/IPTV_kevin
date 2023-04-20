@@ -238,12 +238,15 @@ acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV - 1080", Real Madrid TV - 1080
-acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
+acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça Tv", Barça TV
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV - 720", Real Madrid TV - 720
+acestream://0827cf7d290967985892965c6e61244a479d6dcd
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça TV 1080", Barça TV 1080
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça Tv 720", Barça TV 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça TV 720", Barça TV 720
 acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="TDT" tvg-id="Teledeporte - 1080", Teledeporte - 1080
