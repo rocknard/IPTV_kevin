@@ -641,6 +641,10 @@ http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
 http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148929
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV 🐂
 http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV HD " tvg-logo="#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV HD " tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?Cari
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV HD " tvg-logo="#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV FHD " tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV FHD" group-title="Spain",Mundotoro TV FHD
+https://cari@telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?cari
 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: REAL MADRID TV
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES 3 (Solo Eventos)
