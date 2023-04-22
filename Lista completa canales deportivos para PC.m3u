@@ -234,13 +234,10 @@ acestream://fb4b9de0f936142927573c60f19d4a08c4ecae5a
 acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 1080", Eurosport 1 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 - 1080", Eurosport 1 - 1080
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 1080", Eurosport 1 - 1080
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 - 1080", Eurosport 2 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Eurosport" tvg-id="Eurosport 2 - 1080", Eurosport 2 - 1080
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmTGpfkp/DTV.png" group-title="Varios" tvg-id="DirectSports Plus", DirectSports Plus
@@ -654,9 +651,9 @@ http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
 http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148929
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV 🐂
 http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV HD " tvg-logo="#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV HD " tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?Cari
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV HD " tvg-logo="#EXTINF:-1 tvg-id="" tvg-name="Mundotoro TV FHD " tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV FHD" group-title="Spain",Mundotoro TV FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
 https://cari@telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?cari
 #EXTINF:0 tvg-id="RealMadridTV.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: REAL MADRID TV
 http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
