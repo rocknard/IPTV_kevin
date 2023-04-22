@@ -209,6 +209,9 @@ acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M. Golf 2 - 720", M. Golf 2 - 720
 acestream://d6ed18556fc6d039a9afd2cabc850f6c8b65ccaa
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmTGpfkp/DTV.png" group-title="Varios" tvg-id="DirectSports Plus", DirectSports Plus
+acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
+
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/ laliga-sports-tv.jpg" group-title="Varios" tvg-id="Laliga Sport petanca", Laliga sport Petanca
 acestream://426b0f68a64fac1f6de71d47a7dfc4260d783014
 
@@ -221,16 +224,16 @@ acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="beIN Sport Extra ñ", beIN SPORT Extra ñ
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Varios" tvg-id="Mundotoro TV 1080", Mundotoro TV 1080
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV 1080", Mundotoro TV 1080
 acestream://998732c1fbbae8be05fd2306e6265c3af4d3dd6b
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Varios" tvg-id="Mundotoro TV 1080", Mundotoro TV 1080
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV 1080", Mundotoro TV 1080
 acestream://fd6523f3a72875ad5cc5a85598bc4e7923d0f702
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Varios" tvg-id="Mundotoro TV 720", Mundotoro TV 720
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV 720", Mundotoro TV 720
 acestream://fb4b9de0f936142927573c60f19d4a08c4ecae5a
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Varios" tvg-id="Mundotoro TV 720", Mundotoro TV 720
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV 720", Mundotoro TV 720
 acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01
 
 
@@ -239,9 +242,6 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Eurosport" tvg-id="Eurosport 2 - 1080", Eurosport 2 - 1080
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmTGpfkp/DTV.png" group-title="Varios" tvg-id="DirectSports Plus", DirectSports Plus
-acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
