@@ -168,6 +168,9 @@ acestream//28710e9057927317c869b11d669c28a4d77a6ab3
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="Sky Sports F1 SD", Sky Sports F1 SD
 acestream//3251c61c831ddeae6b7feeae704a3f6c5c975e02
 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180430/pze/kisspng-nio-formula-e-team-logo-brand-5ae77a4a219680.8868016715251195621376.jpg" group-title="F1" tvg-id="Formula E", Formula E
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
 
 #EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="BT Sport1", BT Sport1
 acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
