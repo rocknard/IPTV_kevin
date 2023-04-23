@@ -181,6 +181,19 @@ acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
 #EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="Sport 360", Sport 360
 acestream://e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
 
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="BT Sport" tvg-id="BT Sport1", BT Sport1 [UK]
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-logo="https://seekvectors.com/files/download/BT-sport-2-01.png" group-title="BT Sport" tvg-id="BT Sport2", BT Sport2 [UK]
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" group-title="BT Sport" tvg-id="BT Sport3", BT Sport3 [UK]
+acestream://5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/BtSportExtra4/bt%20sport%20extra%204.png" group-title="BT Sport" tvg-id="BT Sport4", BT Sport4 [UK]
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
 acestream://2ef31f4ff1539e3d6871cd054e675d6384050396
 
