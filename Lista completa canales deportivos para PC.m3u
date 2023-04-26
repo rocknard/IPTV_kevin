@@ -250,6 +250,21 @@ acestream://e4cba1d67e6709e8c5930949ea1d22c38ee2113a
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV IPTV", Mundotoro TV IPTV
 https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8?Manujaz
 
+#EXTINF:0 tvg-id="ext" group-title="Mundotoro",ESP-4: MUNDOTORO TV HD IPTV
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
+
+#EXTINF:0 tvg-id="ext" group-title="Mundotoro",ESP-4: MUNDOTORO TV SD IPTV
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148929
+
+#EXTINF:0 tvg-id="ext" group-title="Mundotoro",ESP-4: MUNDOTORO TV 🐂 IPTV
+http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD IPTV
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?Cari
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
+https://cari@telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?cari
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 - 1080", Eurosport 1 - 1080
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
@@ -526,1104 +541,516 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:0 tvg-id="ClanTVE.es" group-title="Movistar Infantil",ES | Clan TVE
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movistar TDT",Blaze ES
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126166
-
 #EXTINF:0 tvg-id="24Horas.sp" group-title="Movistar TDT",ES | Canal 24 Horas
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
 #EXTINF:0 tvg-id="Mega.es" group-title="Movistar TDT",ES | Mega
 http://fireott.biz:2052/802411455218374/802497856238254/96443
 
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: BARCA TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4296
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: LIGA TV BAR
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4297
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: LIGA TV BAR HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4298
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: LIGA TV BAR FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4299
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: LIGA TV 1 BAR (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4300
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: LIGA TV BAR 3 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4301
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: LIGA TV BAR 4 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4302
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR #VAMOS
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4304
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR VAMOS BAR  HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4305
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR VAMOS BAR  FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4306
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LALIGA FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4303
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: M LALIGA FHD
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LALIGA 1 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4307
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4308
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR  LALIGA 2 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4309
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 2 FHD (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4310
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR  LA LIGA 3 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4311
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 4 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4312
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 5 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4313
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 6 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4314
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 7 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4315
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 10 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4316
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4317
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 9 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4318
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LA LIGA 8 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4319
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="DEPORTES: ESPAÑA⚽" tvg-id="M.Liga De Campeones HD", M.Liga De Campeones HD
-http://desastre3.deficoin.life/play/campeones/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4320
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4321
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: Movistar Liga de Campeones HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126196
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4322
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4323
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4324
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES 2
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4325
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4326
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 3  (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4327
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4328
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4329
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4330
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4331
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA CAMPEONES 8 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4332
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR  GOLF
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4333
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR GOLF HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4334
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR  DEPORTES
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4335
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTES HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4336
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTES FULLHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4337
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES: ESPAÑA⚽" tvg-id="ESP-4: M DEPORTES", ESP-4: M DEPORTES
-http://desastre3.deficoin.life/play/deportes/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: GOL TV FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4338
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 1 FULL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4339
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 1
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4340
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 2 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4341
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 3 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4342
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 4 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4343
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 5 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4344
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 6 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4345
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 7
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4346
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR DEPORTE 8
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4347
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="DEPORTES: ESPAÑA⚽",ESP-4: EUROSPORT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4348
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="DEPORTES: ESPAÑA⚽",ESP-4: EUROSPORT HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4349
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="DEPORTES: ESPAÑA⚽",ESP-4: EUROSPORT FULL FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4350
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="DEPORTES: ESPAÑA⚽",ESP-4: Eurosport  2
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4351
-#EXTINF:0 tvg-id="Esport3.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: ESPORT 3
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4352
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR F1 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4354
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: M. FORMULA 1 FULL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4355
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR GOLF FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4356
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: TELEDEPORTE
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/4357
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV HD
-http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV SD
-http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148929
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MUNDOTORO TV 🐂
-http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?Cari
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="DEPORTES: ESPAÑA⚽",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
-https://cari@telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?cari
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="DEPORTES: ESPAÑA⚽",ESP-4: REAL MADRID TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/132056
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: MOVISTAR LIGA DE CAMPEONES 3 (Solo Eventos)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140378
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES: ESPAÑA⚽",ESP-4: DAZN Formula 1 GP
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/151641
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DEPORTES: ESPAÑA⚽" tvg-id="DAZN F1", DAZN F1
-http://desastre3.deficoin.life/play/formula1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="DEPORTES: ESPAÑA⚽",Caza Y Pesca
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
 
-
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TCM HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126161
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: SYFY HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126162
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NATIONAL GEO WILD HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126163
-#EXTINF:0 tvg-id="MezzoLiveHD.fr" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MEZZO LIVE HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126164
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TRECE TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126165
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BLAZE
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126166
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BABY TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126167
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: #0 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126168
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: #VAMOS HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126169
-#EXTINF:0 tvg-id="Canal24Horas.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: 24H
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126170
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: A3 SERIES HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126171
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COMEDY CENTRAL HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126172
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BLOOMBERG
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126173
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CANAL GOLF FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126174
-#EXTINF:0 tvg-id="Odisea.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CANAL ODISEA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126175
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CANAL PANDA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126176
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CANAL SUR
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126177
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CRIME AND INVESTIGATION
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126178
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISCOVERY CHANNEL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126179
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DMAX
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126180
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX NEWS
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126181
-#EXTINF:0 tvg-id="GaliciaTVEuropa.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: GALICIA TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126182
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR COMEDIA HD
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR SERIE HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126184
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR SERIES MANIA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126185
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TAQUILLA 1 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126186
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TAQUILLA 2 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126187
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TAQUILLA 3 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126188
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TAQUILLA 4 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126189
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TAQUILLA 5 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126190
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TAQUILLA 6 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126191
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TOROS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126192
-#EXTINF:0 tvg-id="Canal24Horas.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TVE 24H
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126193
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: IBERALIA TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126194
-#EXTINF:0 tvg-id="MezzoLiveHD.fr" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MEZZO LIVE HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126195
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX LIFE HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126197
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126198
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FDF
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126199
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DKISS
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126200
-#EXTINF:0 tvg-id="Divinity.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DIVINITY HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126201
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISNEY CHANEL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126202
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISNEY XD
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69324.ts
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISNEY JR
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
-#EXTINF:0 tvg-id="Decasa.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CANAL CASA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126205
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COSMO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126206
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COMEDY CENTRAL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126207
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CANAL COCINA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126208
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CLAN TVE
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126209
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CAZA Y PESCA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126210
-#EXTINF:0 tvg-id="Calle13.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CALLE 13 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126211
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TVE LA 1 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126212
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TVE LA 2 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126213
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: ANTENA 3 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126214
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CUATRO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126215
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: LA SEXTA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126216
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR ACCION HD
-http://izipizi1.info:80/live/Dinastija2301/N6SVhfN6SVhf/69306.ts
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR Disney HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126218
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR CINE N
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126219
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MoviStar ESTRENOS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126220
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MTV ESPAÑA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126221
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NAT GEO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126222
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NAT GEO WILD HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126223
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NICK JUNIOR
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126224
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NICKELODEON HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126225
-#EXTINF:0 tvg-id="Odisea.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: ODISEA HVEC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126226
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: PANDA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126227
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: SUNDANCE HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126228
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: SYFY HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126229
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TCM HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126230
-#EXTINF:0 tvg-id="Telemadrid.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TELEMADRID HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126231
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TNT HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126232
-#EXTINF:0 tvg-id="XTRM.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: XTRM
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126233
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: VIAJAR HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126234
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: HOLLYWOOD HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126235
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BOING
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126236
-#EXTINF:0 tvg-id="Nova.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NOVA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126237
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: AMC HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126238
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: ARAGON TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126239
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: AXN HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126240
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: AXN WHITE HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126241
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BARCA TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126242
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BE MAD HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126243
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: BLAZE
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126244
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR ACCION HD
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR DRAMA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126246
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: SERIES MANIA FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126247
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COMEDIA HD
-http://izipizi1.info:80/live/Dinastija2301/N6SVhfN6SVhf/69307.ts
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CINE ESPANOL
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126249
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: AXN WHITE
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126250
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NICKELODEON
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126251
-#EXTINF:0 tvg-id="Calle13.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CALLE 13 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126252
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COSMO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126253
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126254
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX LIFE HD.
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126255
-#EXTINF:0 tvg-id="Neox.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: NEOX
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126256
-#EXTINF:0 tvg-id="Energy.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: ENERGY
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126257
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COCINA TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126258
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TVE
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126259
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TELECINCO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126260
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: CUATRO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126261
-#EXTINF:0 tvg-id="Antena3.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: ANTENA 3 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126262
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: LA 2
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126263
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: LA 1 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126264
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: LA 1 HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126265
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: TNT HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126266
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: VIAJAR HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126267
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: #VAMOS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126268
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR SERIES HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126269
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: I24 NEWS
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126270
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: DISNEY CHANNEL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126271
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: ACCION HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126272
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: IBERALIA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126273
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: HISTORIA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126274
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR ESTRENOS
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126275
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR FORMULA 1 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126276
-#EXTINF:0 tvg-id="Odisea.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: ODISEA FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126277
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: COSMO HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126278
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR DRAMA HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126279
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: HOLLYWOOD HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126280
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX LIFE HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126281
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: FOX HD HEVC
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126282
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: LA  7 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126475
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: MOVISTAR CINE CLÁSICO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/143844
-#EXTINF:0 tvg-id="Somos.es" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: SOMOS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/143986
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: PREMIUM⭐️",ESP-1: PARAMOUNT HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/144035
-#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="ESPAÑA: PREMIUM⭐️",Discovery
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
-
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: ANTENA INTERNACIONAL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140350
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ESPAÑA: NACIONALES",ESP-7: TELECINCO FULLHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126312
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ESPAÑA: NACIONALES",ESP-7: TELECINCO
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126310
-#EXTINF:0 tvg-id="ETB1.es" group-title="ESPAÑA: NACIONALES",ESP-7: TB MADRID HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150245
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 La Rioja *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150409
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 Noticias *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150410
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150411
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Bahía) *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150412
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Córdoba) *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150413
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Costa Noroeste)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150414
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Jaén) *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150415
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Jerez) *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150416
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Málaga)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150417
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Sevilla) *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150418
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 7 TV Andalucía (Sierra) *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150419
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 8 TV Cádiz SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150420
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 9 la Loma TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150421
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 4 de la Mancha HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150422
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 25 TV SDT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150423
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 28 kanala *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150424
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 101 Tele Antequera *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150425
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: 101TV Malaga *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150426
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP- RAKUTEN ACCION *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150427
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: RAKUTEN COMEDIA *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150428
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Activa MALAGA TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150429
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Alacantí TV *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150430
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Alcarria TV *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150431
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: À Punt *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150432
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: À Punt *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150433
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Aragón Radio (Zaragoza)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150434
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Bailén TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150435
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: betevé *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150436
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Bon Dia TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150437
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Cadena Elite *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150438
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Campiña Sur TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150439
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 4 Mancha Centro *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150440
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 4 Tenerife *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150441
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 10 Empordà SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150442
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 24 Horas
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150443
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 25 TV (Barbastro) *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150444
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 33 Madrid *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150445
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: CANAL 45 TV ES
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150446
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 56 *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150447
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 2000 La Solana *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150448
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Diocesano *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150449
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Costa Noroeste *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150450
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Extremadura *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150451
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Málaga RTV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150452
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Parlamento SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150453
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal San Roque *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150454
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Sierra de Cádiz *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150455
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Sierra de Cádiz *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150456
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Sierra de Cádiz *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150457
-#EXTINF:0 tvg-id="TV3.es" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Super 3 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150458
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Sur Andalucía *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150459
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Sur Andalucía *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150460
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal Taronja Osona i Moianés SDT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150461
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: CCMA Exclusiu 1 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150462
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: CCMA Exclusiu 2 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150463
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Clan TVE *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150464
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Clan TVE *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150465
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: CMM TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150466
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Condavisión *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150467
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Congreso de los Diputados 1 SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150468
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Congreso de los Diputados 2 SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150469
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Congreso de los Diputados 3 SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150470
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Congreso de los Diputados 4 SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150471
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Congreso de los Diputados 5 SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150472
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Cosmo TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150473
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Cosmo TV SDT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150474
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Costa Noroeste TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150475
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Cuatro 4 TV Vall Uxa *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150476
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Déjate de Historias TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150477
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Diez TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150478
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Distrito TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150479
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Durangaldeko TV *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150480
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: EiTB 2 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150481
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: EITB SDT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150482
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: El 33 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150483
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Elche 7 TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150484
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: El Futuro en tu mano *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150485
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: El Toro TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150486
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: ESNE TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150487
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Esport3 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150488
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Esport3 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150489
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Estepona Televisión *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150490
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: ETB 1 SDT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150491
-#EXTINF:0 tvg-id="ETB1.es" group-title="ESPAÑA: NACIONALES",ESP-7: ETB Eventos 1 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150492
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: EuropaPress TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150493
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Fibracat TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150494
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Fibwi *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150495
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Fion TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150496
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Goiena Eus *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150497
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Guada TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150498
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Hamaika Telebista *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150499
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Hermes TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150500
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Arabic *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150501
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Baladas *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150502
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Blues *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150503
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Chill Out *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150504
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Classic *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150505
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Dance *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150506
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Folk *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150507
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Hits *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150508
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: QWEST *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150509
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Jazz *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150510
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Kids *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150511
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Latin *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150512
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Pop *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150513
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: BAILÉN TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150514
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Remember *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150515
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: HQM Rock *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150516
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: QWEST *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150517
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Huesca TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150518
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Ibiza Global TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150519
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Imás TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150520
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Interalmeria TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150521
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Intercomarcal TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150522
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Intercomarcal TV *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150523
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Intercomarcal TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150524
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Islatel *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150525
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Junta Castilla y León *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150526
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 1 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150527
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 1 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150528
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 1 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150529
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 2 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150530
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 2 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150531
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 2 *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150532
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Avila *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150533
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Bierzo *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150534
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Burgos *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150535
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Leon *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150536
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Mediterráneo *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150537
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Palencia (270p)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150538
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Salamanca *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150539
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Segovia *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150540
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Soria *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150541
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Valladolid *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150542
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 8 Zamora *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150543
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Lancelot TV *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150544
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: LaOtra *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150545
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La Urban TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150546
-#EXTINF:0 tvg-id="Canal24Horas.es" group-title="ESPAÑA: NACIONALES",ESP-7: La Voz 24h *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150547
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Lebrija TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150548
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Levante TV (STD)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150549
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Lleida Televisio *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150550
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Logos TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150551
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Logos TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150552
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: M95 Televisión Marbella *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150553
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Maestrat TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150554
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Mar TV *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150555
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Mírame TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150556
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Navarra TV *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150557
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Negocios TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150558
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Noroeste TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150559
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Oizmendi Telebista *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150560
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Olympics Channel *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150561
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Onda Cádiz *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150562
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Onda Madrid SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150563
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Onda Madrid SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150564
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: OndaMezquita 7 TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150565
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Pequeradio *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150566
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: RAKUTEN DRAMA *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150567
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: +24 *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150568
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: +24 *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150569
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: +24 *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150570
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: +24 *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150571
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: +tdp
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150572
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: +tdp
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150573
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: +tdp
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150574
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: +tdp
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150575
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: +tdp
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150576
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: +tdp
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150577
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Popular TV Cantabria *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150578
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Popular TV Melilla *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150579
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Popular TV Murcia *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150580
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Punt 3 Vall Uixó *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150581
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Radio Televisión Marbella
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150582
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Radio Televisión Melilla *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150583
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Radio Televisión Mogán *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150584
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ESPAÑA: NACIONALES",ESP-7: Real Madrid TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150585
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ESPAÑA: NACIONALES",ESP-7: Real Madrid TV *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150586
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: RT *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150587
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: RTVC (Radio Televisión Canaria) *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150588
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: RTVE *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150589
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: RTV Vida *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150590
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Sal Televisión *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150591
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Sevilla FC TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150592
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Solidaria TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150593
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Sophia TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150594
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TAC 12 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150595
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TAC 12 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150596
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Tarotéame *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150597
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: Teledeporte *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150598
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="ESPAÑA: NACIONALES",ESP-7: Teledeporte *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150599
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TEF *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150600
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TeleGilena SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150601
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Telemadrid *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150602
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TeleRibera *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150603
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Tele Safor *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150604
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Tele Sagunto
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150605
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TeleToledo *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150606
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TorrreVision *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150607
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Televisión Aranda *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150608
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: teve.cat *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150609
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Tevequatre TV *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150610
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Trebujena TV SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150611
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Trece TV *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150612
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Tuya La Janda Televisión *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150613
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TV3CAT *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150614
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TV3CAT *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150615
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TV3 Catalunya *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150616
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TV Valencia *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150617
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TV Canaria *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150618
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TV3CAT *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150620
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: tvG2 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150621
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG América *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150622
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG Cultural *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150623
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG Europa *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150624
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG Evento 1 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150625
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG Evento 5 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150626
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG Infantil *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150627
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TV Girona *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150628
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG Momento SDT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150629
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: TVG Musigal SDT
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150630
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Ventdelnord TV *STD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150636
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Visión 6 TV *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150637
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: A3Series Internacional
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150641
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: LA7 *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150642
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Radio Rutas del Perú SD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150643
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 24 horas *FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150647
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: Canal 24 horas *HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150648
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 1 Catalunya *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150649
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 1 Catalunya *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150650
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA: NACIONALES",ESP-7: La 1 Canarias *hd
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150651
-
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: TELEDEPORTE
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126500
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPORTS: ESPAÑA⚽",ESP-5: REAL MADRID HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140356
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN - F1 GP FULL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126453
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN - F1 GP HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141362
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN 1 FHD
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhv_KMpMotU3TKbeYXc0dXVU
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN 2 FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141361
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN 3 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141363
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN 3 FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141364
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN 4 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141365
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN 4 FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141366
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: DAZN LA LIGA FHD
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhqffK5R-yZCLlYq2VomtwXI
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: MOVISTAR  LALIGA 2
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126465
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: LIGA TV BAR HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126484
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: LIGA TV BAR
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126460
-#EXTINF:0 tvg-id="ext" group-title="SPORTS: ESPAÑA⚽",ESP-5: Golf 2
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (UHD) M+ LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54535.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (HD) M+ LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5758.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (FHD) M+ LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54532.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LALIGA 2 (MATCH TIME)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5651.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LALIGA 3 (MATCH TIME)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5652.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25125.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA FHD
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54668.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25127.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ Laliga SmartBankTV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25128.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LaLiga Smartbank TV M2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25953.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LaLiga Smartbank TV M3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25954.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5589.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5590.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5591.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 4
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5592.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN F1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5593.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: MUNDOTORO
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/55943.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (HD) M+ LIGA DE CAMPEONES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5671.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (FHD) M+ LIGA DE CAMPEONES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54531.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5663.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5664.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 4
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5665.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 5
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5666.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 6
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5667.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 7
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5668.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 8
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5669.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 9
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5670.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 10
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5685.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 11
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5686.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 12
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5687.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 13
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29360.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: Gol Mundial (SuperCopa)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/40862.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: Gol Mundial 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/49555.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: ESPN DEPORTES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5605.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPAIN SPORT FHD",ES: EUROSPORT 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5607.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="SPAIN SPORT FHD",ES: EUROSPORT 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5608.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LALIGATV BAR
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5661.ts
+#EXTINF:0 tvg-id="BeINSports.es" group-title="SPAIN SPORT FHD",ES: BEIN SPORTS ESPANA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24040.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ GOLF
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5649.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ GOLF 2
 http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhhuZr-8eu14rUwanr9ixEV0
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5643.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5638.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5639.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5640.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 4
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5641.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 5
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5681.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 6
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5682.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 7
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5683.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 8
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29667.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="SPAIN SPORT FHD",ES: GOL TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5617.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ #VAMOS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5630.ts
 
-#EXTINF:0 tvg-id="ext" group-title="CULTURA: ESPAÑA",ESP-8: TEN CRIMEN + INVESTIGATION
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126433
-#EXTINF:0 tvg-id="ext" group-title="CULTURA: ESPAÑA",ESP-8: DW ESPAÑA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/126441
-#EXTINF:0 tvg-id="ext" group-title="CULTURA: ESPAÑA",ESP-8: DISCOVERY CHANNEL ESPAÑA
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/153596
-
-
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: FIGHT NETWORK 4K+
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/141524
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: FUBO SPORTS NETWORK UHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/143017
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: WORLD FISHING NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/144370
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: TVS CLASSIC SPORTS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/144825
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: ATT SPORTSNET
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/144826
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: UFC FIGHT PASS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/145487
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: UFC NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/145488
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: UFC TV HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/145489
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="USA: ⚽SPORTS ⚽",USA: BOX NATION 4K
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/145499
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: LONGHORN NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/145500
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN PHILADELPHIA FHD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/145819
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN BAY AREA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/146587
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN BAY AREA PLUS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/146588
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN CALIFORNIA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/146589
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN CHICAGO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/146590
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN CHICAGO PLUS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/149215
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN PHILADELPHIA PLUS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/149628
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBC SN WASHINGTON PLUS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/149630
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="USA: ⚽SPORTS ⚽",USA: REAL MADRID TV US
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/150342
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: ESR E-SPORTS NETWORK US
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/151285
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: ESPN USA (HVEC)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/149856
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: MOTOR VISION TV
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155284
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: ESRN  eSports Network 4K
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155286
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: ELEVEN SPORTS NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155287
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="USA: ⚽SPORTS ⚽",USA: CBS SPORTS NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140740
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS WEST HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140782
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140783
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS DETROIT HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140784
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS SUN HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140785
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS OHIO HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140786
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS OKLAHOMA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140787
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS SOUTH-EAST HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140788
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS SOUTH-WEST HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140789
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS ARIZONA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140790
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BALLY SPORTS ARIZONA PLUS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140791
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: SPORTSNET ONE HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140792
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: STADIUM HD (Event)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140793
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: STADIUM HD #1 (Event)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140794
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: STADIUM #2 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140795
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: PAC12 ENCORE ARIZONA HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155877
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: PAC12 ENCORE MOUNTAIN HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/155878
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBA TV USA (HVEC)
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157285
-#EXTINF:0 tvg-id="ESPNHD.us" group-title="USA: ⚽SPORTS ⚽",USA: ESPN HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140726
-#EXTINF:0 tvg-id="ESPN2.us" group-title="USA: ⚽SPORTS ⚽",USA: ESPN 2 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140727
-#EXTINF:0 tvg-id="ESPNews.us" group-title="USA: ⚽SPORTS ⚽",USA: ESPN NEWS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140729
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: ESPN U HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140730
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="USA: ⚽SPORTS ⚽",USA: FOX SPORTS 1 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140731
-#EXTINF:0 tvg-id="ESPN2.us" group-title="USA: ⚽SPORTS ⚽",USA: FOX SPORTS 2 HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140732
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NFL NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140733
-#EXTINF:0 tvg-id="MLBNetwork.us" group-title="USA: ⚽SPORTS ⚽",USA: MLB NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140734
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NBA TV HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140735
-#EXTINF:0 tvg-id="NHLNetwork.us" group-title="USA: ⚽SPORTS ⚽",USA: NHL NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140736
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: YES CHANNEL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140737
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: SPORTSNET NY METS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140738
-#EXTINF:0 tvg-id="beINSPORTSHD.us" group-title="USA: ⚽SPORTS ⚽",USA: BEIN SPORTS HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140739
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: MSG NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140741
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: MSG+ HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140742
-#EXTINF:0 tvg-id="GolfChannel.us" group-title="USA: ⚽SPORTS ⚽",USA: GOLF CHANNEL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140775
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: BIG NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140776
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: ACC NETWORK HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140777
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: TVG HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140778
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: OUTSIDE TV HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140779
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: NESN Plus
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140780
-#EXTINF:0 tvg-id="NESN.us" group-title="USA: ⚽SPORTS ⚽",USA: NESN HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140781
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: SPORTMAN CHANNEL HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140796
-#EXTINF:0 tvg-id="Velocity.us" group-title="USA: ⚽SPORTS ⚽",USA: VELOCITY HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140797
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: MLS SOCCER HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140798
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: FIGHTNET HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140799
-#EXTINF:0 tvg-id="ext" group-title="USA: ⚽SPORTS ⚽",USA: MOTORSPORT HD
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/140800
-
-
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",01 | PREMIER LEAGUE #1
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157476
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",02 | PREMIER LEAGUE #2
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157477
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",03 | PREMIER LEAGUE #3 4K
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157478
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",04 | PREMIER LEAGUE #4
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157479
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",05 | PREMIER LEAGUE #5
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157480
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",06 | PREMIER LEAGUE #6
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157481
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",07 | PREMIER LEAGUE #7
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157482
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",08 | PREMIER LEAGUE #8
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157483
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",09 | PREMIER LEAGUE #9
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157484
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",10 | PREMIERE LEAGUE #10
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157485
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",11 | PREMIER LEAGUE #11
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157486
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",12 | PREMIER LEAGUE #12
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/157498
-#EXTINF:0 tvg-id="ext" group-title="ENGLAND - PREMIER LEAGUE⚽",13 | PREMIER LEAGUE STAR+
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/160071
-
-
-#EXTINF:0 tvg-id="ext" group-title="CASA DE LOS FAMOSOS/2023⭐️",La Casa De Los Famosos CAM 1
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/160063
-#EXTINF:0 tvg-id="ext" group-title="CASA DE LOS FAMOSOS/2023⭐️",La Casa De Los Famosos CAM 2
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/160064
-#EXTINF:0 tvg-id="ext" group-title="CASA DE LOS FAMOSOS/2023⭐️",La Casa De Los Famosos CAM 3
-http://31.42.185.216:8000/B5K04PT92N/1KA88CS4PE/160065
+#EXTINF:0 tvg-id="LA1.es" group-title="SPAIN FHD",ES: LA 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5622.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="SPAIN FHD",ES: LA 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5623.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN FHD",ES: ANTENA 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5555.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN FHD",ES: CUATRO
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5588.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN FHD",ES: Telecinco
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5734.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="SPAIN FHD",ES: LA SEXTA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5625.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="SPAIN FHD",ES: Factoría de Ficción
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5611.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="SPAIN FHD",ES: NOVA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5723.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN FHD",ES: ENERGY
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5603.ts
+#EXTINF:0 tvg-id="Trece.es" group-title="SPAIN FHD",ES: TRECE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5741.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="SPAIN FHD",ES: BARCA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5560.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Horse TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25936.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ ELLAS #V
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29333.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPAIN FHD",ES: REAL MADRID TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5729.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: SEVILLA FC
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29340.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN FHD",ES: Teledeporte
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5735.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ #0
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5546.ts
+#EXTINF:0 tvg-id="24Horas.sp" group-title="SPAIN FHD",ES: 24 HORAS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5550.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: A&E
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5551.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="SPAIN FHD",ES: AMC
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5553.ts
+#EXTINF:0 tvg-id="AndaluciaTVsat.es" group-title="SPAIN FHD",ES: ANDALUCIA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5554.ts
+#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="SPAIN FHD",ES: ARAGON TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5556.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="SPAIN FHD",ES: AXN
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5557.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPAIN FHD",ES: AXN WHITE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5558.ts
+#EXTINF:0 tvg-id="BEMAD.es" group-title="SPAIN FHD",ES: BE MAD
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5561.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: BLAZE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5564.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: BOM CINE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5566.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="SPAIN FHD",ES: CALLE 13
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5567.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL 26
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5569.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="SPAIN FHD",ES: CANAL COCINA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5570.ts
+#EXTINF:0 tvg-id="Decasa.es" group-title="SPAIN FHD",ES: CANAL DECASA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5571.ts
+#EXTINF:0 tvg-id="CanalSur.es" group-title="SPAIN FHD",ES: CANAL SUR
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5575.ts
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="SPAIN FHD",ES: CANAL SUR ANDALUCIA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5576.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPAIN FHD",ES: CAZA Y PESCA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="SPAIN FHD",Caza Y Pesca
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="SPAIN FHD",ES: CLAN
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5580.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="SPAIN FHD",ES: COMEDY CENTRAL
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5584.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="SPAIN FHD",ES: COSMO
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5585.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CRIME INVESTIGATION
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5586.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="SPAIN FHD",ES: DISCOVERY
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5594.ts
+#EXTINF:0 tvg-id="BabyTV.es" group-title="SPAIN FHD",ES: BABY TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5559.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="SPAIN FHD",ES: BOING
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5565.ts
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="SPAIN FHD",ES: DISNEY CHANNEL
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5596.ts
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="SPAIN FHD",ES: DISNEY JUNIOR
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5597.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: DREAMWORKS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5602.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="SPAIN FHD",ES: NICK JR
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5720.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="SPAIN FHD",ES: NICKELODEON
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5721.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="SPAIN FHD",ES: DIVINITY
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5599.ts
+#EXTINF:0 tvg-id="DKISS.es" group-title="SPAIN FHD",ES: DKISS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5600.ts
+#EXTINF:0 tvg-id="DiscoveryMAX.es" group-title="SPAIN FHD",ES: DISCOVERY MAX
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5601.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ESPERANZA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5606.ts
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="SPAIN FHD",ES: EXTREMADURA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5609.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="SPAIN FHD",ES: FOX
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5612.ts
+#EXTINF:0 tvg-id="FoxLife.es" group-title="SPAIN FHD",ES: FOX LIFE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5613.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="SPAIN FHD",ES: HISTORIA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5618.ts
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="SPAIN FHD",ES: IBERALIA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5621.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Acción
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5632.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ COMEDIA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5636.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Cine Español
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5633.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Clásicos
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5634.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ DRAMA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5644.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ ESTRENOS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5645.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ ESTRENOS 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5646.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ SERIES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5675.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ SERIES 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5673.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="SPAIN FHD",ES: HOLLYWOOD
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5619.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="SPAIN FHD",ES: PARAMOUNT CHANNEL
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5727.ts
+#EXTINF:0 tvg-id="Somos.es" group-title="SPAIN FHD",ES: SOMOS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5730.ts
+#EXTINF:0 tvg-id="TNT.es" group-title="SPAIN FHD",ES: TNT
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5739.ts
+#EXTINF:0 tvg-id="TCM.es" group-title="SPAIN FHD",ES: TCM
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5733.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 1 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5690.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 2 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5691.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 3 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5692.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 4 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5693.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 5 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5694.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 6 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5695.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 7 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5696.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 8 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5697.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 9 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5698.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 10 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5699.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 11 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5764.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 12 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5765.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 18 (MULTIAUDIO)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5771.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Action
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29311.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Action 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29312.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Box Office
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29313.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Box Office 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29314.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Comedy
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29315.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Discovery
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29317.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Drama
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29318.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Horror
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29319.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Horror 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29320.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Kids
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29321.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Kids 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29322.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Movies
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29323.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Movies 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29324.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Thriller
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29325.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Thriller 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29326.ts
+#EXTINF:0 tvg-id="Alquiler1.es" group-title="SPAIN FHD",ES: TAQUILLA 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29327.ts
+#EXTINF:0 tvg-id="Alquiler2.es" group-title="SPAIN FHD",ES: TAQUILLA 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29328.ts
+#EXTINF:0 tvg-id="Taquilla3.es" group-title="SPAIN FHD",ES: TAQUILLA 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29329.ts
+#EXTINF:0 tvg-id="Taquilla4.es" group-title="SPAIN FHD",ES: TAQUILLA 4
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29330.ts
+#EXTINF:0 tvg-id="Taquilla5.es" group-title="SPAIN FHD",ES: TAQUILLA 5
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29331.ts
+#EXTINF:0 tvg-id="Taquilla6.es" group-title="SPAIN FHD",ES: TAQUILLA 6
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29332.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="SPAIN FHD",ES: MEGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5688.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR CINE DOC & ROLL
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5700.ts
+#EXTINF:0 tvg-id="Classica.es" group-title="SPAIN FHD",ES: CLASSICA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5545.ts
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="SPAIN FHD",ES: MEZZO LIVE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5689.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ FEST
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5648.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MTV 00s
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25941.ts
+#EXTINF:0 tvg-id="MTV2.sp" group-title="SPAIN FHD",ES: MTV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5712.ts
+#EXTINF:0 tvg-id="VH1.es" group-title="SPAIN FHD",ES: VH1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5749.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MULTI DEPORTE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5713.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="SPAIN FHD",ES: NAT GEO
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5714.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="SPAIN FHD",ES: NAT GEO WILD
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5715.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="SPAIN FHD",ES: NEOX
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5718.ts
+#EXTINF:0 tvg-id="NonStopPeople.es" group-title="SPAIN FHD",ES: NON STOP PEOPLE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5722.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="SPAIN FHD",ES: ODISEA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5724.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ORBE 21
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5725.ts
+#EXTINF:0 tvg-id="Panda.es" group-title="SPAIN FHD",ES: CANAL PANDA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5726.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: POPULAR TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5728.ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="SPAIN FHD",ES: SUNDANCE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5731.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="SPAIN FHD",ES: SYFY
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5732.ts
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="SPAIN FHD",ES: Telemadrid
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5736.ts
+#EXTINF:0 tvg-id="Ten.es" group-title="SPAIN FHD",ES: TEN
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5738.ts
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="SPAIN FHD",ES: TOROS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5740.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG -TV Galicia
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5742.ts
+#EXTINF:0 tvg-id="TV3cat.es" group-title="SPAIN FHD",ES: TV3 CAT
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5743.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVE INTERNACIONAL
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5745.ts
+#EXTINF:0 tvg-id="Viajar.es" group-title="SPAIN FHD",ES: VIAJAR
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5750.ts
+#EXTINF:0 tvg-id="XTRM.es" group-title="SPAIN FHD",ES: XTRM
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5751.ts
+#EXTINF:0 tvg-id="ETB2.es" group-title="SPAIN FHD",ES: ETB 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5759.ts
+#EXTINF:0 tvg-id="ETB1.es" group-title="SPAIN FHD",ES: ETB 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5760.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 1 (LIVE EVENT)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24103.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 2 (LIVE EVENT)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24107.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 3 (LIVE EVENT)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24104.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 4 (LIVE EVENT)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24105.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 5 (LIVE EVENT)
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24106.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CNN
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25923.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 324
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25924.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: À Punt
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25925.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: AMC Break
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25926.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: AMC Crime
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25927.ts
+#EXTINF:0 tvg-id="Beteve.es" group-title="SPAIN FHD",ES: Betevé
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25928.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Castilla La Mancha Media
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25929.ts
+#EXTINF:0 tvg-id="Dark.es" group-title="SPAIN FHD",ES: DARK
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25930.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: El Toro TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25932.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Esport 3 CAT
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25933.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: EITB Basque
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25934.ts
+#EXTINF:0 tvg-id="Euronews.es" group-title="SPAIN FHD",ES: Euronews
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25935.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: La 7
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25937.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: La Resistencia
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25938.ts
+#EXTINF:0 tvg-id="LaOtra.es" group-title="SPAIN FHD",ES: La Otra
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25939.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Cracks
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25940.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Sol Music
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25942.ts
+#EXTINF:0 tvg-id="Telesur.es" group-title="SPAIN FHD",ES: Telesur
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25943.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Musigal
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25944.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Momentos G
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25945.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Infantil
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25946.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Eventos 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25948.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Eventos 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25947.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Cultura
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25949.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG América
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25950.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Ubeat
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25951.ts
+#EXTINF:0 tvg-id="A3seriesHD.es" group-title="SPAIN FHD",ES: Atreseries
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25952.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 25 TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29307.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Bailen TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29308.ts
+#EXTINF:0 tvg-id="ElGarage.es" group-title="SPAIN FHD",ES: Garage TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29309.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Telesur Madrid
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29310.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL SUR 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29334.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: VISION 6
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29335.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TELE ONUBA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29336.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TELE BILBAO
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29337.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: STAR TVE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29338.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: SOFY TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29339.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: RAKUTEN 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29343.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: RAKUTEN 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29342.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: RAKUTEN 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29341.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PEQUERADIO TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29344.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PTV SEVILLA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29345.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PTV MÁLAGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29346.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PTV GRANADA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29347.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ONDA ALGECIRAS TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29348.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: NORTEVISION
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29349.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MYTIME MOVIE NETWORK
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29350.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOLAHITS TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29351.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: INTERALMERÍA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29352.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: IMÁS TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29353.ts
+#EXTINF:0 tvg-id="HispanTV.es" group-title="SPAIN FHD",ES: HISPAN TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29354.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: DW EN ESPAÑOL
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29356.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: COMEDY DYNAMICS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29357.ts
+#EXTINF:0 tvg-id="Cazavision.es" group-title="SPAIN FHD",ES: CAZAVISIÓN
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29358.ts
+#EXTINF:0 tvg-id="CanalEstrellas.es" group-title="SPAIN FHD",ES: CANAL DE LAS ESTRELLAS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29359.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 7 TV REGION MURCIA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5548.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL MALAGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29661.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: BON DIA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29663.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ALCARRIA TV
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29664.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 091 ALERTA POLICIA 24/7
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29665.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL DIOCESANO TOLEDO
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="SPAIN FHD",Discovery
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
 
 #EXTINF:0 tvg-id="avi" group-title="VOD | SPAIN",ma lei le paga le tasse? (1971)
 http://pikasolu.top:8080/movie/61677426049169070/1831677426049169/35134.mp4
@@ -4695,504 +4122,6 @@ http://pikasolu.top:8080/movie/61677426049169070/1831677426049169/36686.mp4
 http://pikasolu.top:8080/movie/61677426049169070/1831677426049169/36687.mp4
 #EXTINF:0 tvg-id="avi" group-title="VOD | SPAIN",Érase una vez en Euskadi (2021)
 http://pikasolu.top:8080/movie/61677426049169070/1831677426049169/36688.mp4
-
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25125.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA FHD
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54668.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25127.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ Laliga SmartBankTV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25128.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5589.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5590.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 3
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5591.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN 4
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5592.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: DAZN F1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5593.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: MUNDOTORO
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/55943.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (UHD) M+ LALIGA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54535.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (HD) M+ LALIGA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5758.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (FHD) M+ LALIGA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54532.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LALIGA 2 (MATCH TIME)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5651.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LALIGA 3 (MATCH TIME)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5652.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (HD) M+ LIGA DE CAMPEONES
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5671.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (FHD) M+ LIGA DE CAMPEONES
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54531.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5663.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 3
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5664.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 4
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5665.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 5
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5666.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 6
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5667.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 7
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5668.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 8
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5669.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 9
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5670.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 10
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5685.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 11
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5686.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 12
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5687.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 13
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29360.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: Gol Mundial (SuperCopa)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/40862.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: Gol Mundial 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/49555.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: ESPN DEPORTES
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5605.ts
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPAIN SPORT FHD",ES: EUROSPORT 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5607.ts
-#EXTINF:0 tvg-id="Eurosport2.es" group-title="SPAIN SPORT FHD",ES: EUROSPORT 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5608.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LALIGATV BAR
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5661.ts
-#EXTINF:0 tvg-id="BeINSports.es" group-title="SPAIN SPORT FHD",ES: BEIN SPORTS ESPANA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24040.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ GOLF
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5649.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5643.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5638.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5639.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 3
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5640.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 4
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5641.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 5
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5681.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 6
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5682.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 7
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5683.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 8
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29667.ts
-#EXTINF:0 tvg-id="GOL.es" group-title="SPAIN SPORT FHD",ES: GOL TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5617.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ #VAMOS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5630.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LaLiga Smartbank TV M2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25953.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LaLiga Smartbank TV M3
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25954.ts
-
-#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN FHD",ES: ANTENA 3
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5555.ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN FHD",ES: Telecinco
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5734.ts
-#EXTINF:0 tvg-id="LA1.es" group-title="SPAIN FHD",ES: LA 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5622.ts
-#EXTINF:0 tvg-id="LA2.es" group-title="SPAIN FHD",ES: LA 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5623.ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="SPAIN FHD",ES: LA SEXTA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5625.ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN FHD",ES: CUATRO
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5588.ts
-#EXTINF:0 tvg-id="FDF.es" group-title="SPAIN FHD",ES: Factoría de Ficción
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5611.ts
-#EXTINF:0 tvg-id="Nova.es" group-title="SPAIN FHD",ES: NOVA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5723.ts
-#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN FHD",ES: ENERGY
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5603.ts
-#EXTINF:0 tvg-id="Trece.es" group-title="SPAIN FHD",ES: TRECE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5741.ts
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="SPAIN FHD",ES: BARCA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5560.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Horse TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25936.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ ELLAS #V
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29333.ts
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPAIN FHD",ES: REAL MADRID TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5729.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: SEVILLA FC
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29340.ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN FHD",ES: Teledeporte
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5735.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ #0
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5546.ts
-#EXTINF:0 tvg-id="24Horas.sp" group-title="SPAIN FHD",ES: 24 HORAS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5550.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: A&E
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5551.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="SPAIN FHD",ES: AMC
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5553.ts
-#EXTINF:0 tvg-id="AndaluciaTVsat.es" group-title="SPAIN FHD",ES: ANDALUCIA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5554.ts
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="SPAIN FHD",ES: ARAGON TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5556.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="SPAIN FHD",ES: AXN
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5557.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPAIN FHD",ES: AXN WHITE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5558.ts
-#EXTINF:0 tvg-id="BEMAD.es" group-title="SPAIN FHD",ES: BE MAD
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5561.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: BLAZE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5564.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: BOM CINE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5566.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="SPAIN FHD",ES: CALLE 13
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5567.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL 26
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5569.ts
-#EXTINF:0 tvg-id="Cocina.es" group-title="SPAIN FHD",ES: CANAL COCINA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5570.ts
-#EXTINF:0 tvg-id="Decasa.es" group-title="SPAIN FHD",ES: CANAL DECASA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5571.ts
-#EXTINF:0 tvg-id="CanalSur.es" group-title="SPAIN FHD",ES: CANAL SUR
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5575.ts
-#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="SPAIN FHD",ES: CANAL SUR ANDALUCIA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5576.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPAIN FHD",ES: CAZA Y PESCA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5578.ts
-#EXTINF:0 tvg-id="ClanTVE.es" group-title="SPAIN FHD",ES: CLAN
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5580.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="SPAIN FHD",ES: COMEDY CENTRAL
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5584.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="SPAIN FHD",ES: COSMO
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5585.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CRIME INVESTIGATION
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5586.ts
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="SPAIN FHD",ES: DISCOVERY
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5594.ts
-#EXTINF:0 tvg-id="BabyTV.es" group-title="SPAIN FHD",ES: BABY TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5559.ts
-#EXTINF:0 tvg-id="Boing.es" group-title="SPAIN FHD",ES: BOING
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5565.ts
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="SPAIN FHD",ES: DISNEY CHANNEL
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5596.ts
-#EXTINF:0 tvg-id="DisneyJr.es" group-title="SPAIN FHD",ES: DISNEY JUNIOR
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5597.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: DREAMWORKS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5602.ts
-#EXTINF:0 tvg-id="NickJunior.es" group-title="SPAIN FHD",ES: NICK JR
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5720.ts
-#EXTINF:0 tvg-id="Nickelodeon.es" group-title="SPAIN FHD",ES: NICKELODEON
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5721.ts
-#EXTINF:0 tvg-id="Divinity.es" group-title="SPAIN FHD",ES: DIVINITY
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5599.ts
-#EXTINF:0 tvg-id="DKISS.es" group-title="SPAIN FHD",ES: DKISS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5600.ts
-#EXTINF:0 tvg-id="DiscoveryMAX.es" group-title="SPAIN FHD",ES: DISCOVERY MAX
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5601.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ESPERANZA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5606.ts
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="SPAIN FHD",ES: EXTREMADURA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5609.ts
-#EXTINF:0 tvg-id="Fox.es" group-title="SPAIN FHD",ES: FOX
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5612.ts
-#EXTINF:0 tvg-id="FoxLife.es" group-title="SPAIN FHD",ES: FOX LIFE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5613.ts
-#EXTINF:0 tvg-id="Historia.es" group-title="SPAIN FHD",ES: HISTORIA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5618.ts
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="SPAIN FHD",ES: IBERALIA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5621.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Acción
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5632.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ COMEDIA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5636.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Cine Español
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5633.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Clásicos
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5634.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ DRAMA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5644.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ ESTRENOS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5645.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ ESTRENOS 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5646.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ SERIES
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5675.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ SERIES 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5673.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="SPAIN FHD",ES: HOLLYWOOD
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5619.ts
-#EXTINF:0 tvg-id="Paramount.es" group-title="SPAIN FHD",ES: PARAMOUNT CHANNEL
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5727.ts
-#EXTINF:0 tvg-id="Somos.es" group-title="SPAIN FHD",ES: SOMOS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5730.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="SPAIN FHD",ES: TNT
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5739.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="SPAIN FHD",ES: TCM
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5733.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 1 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5690.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 2 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5691.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 3 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5692.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 4 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5693.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 5 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5694.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 6 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5695.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 7 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5696.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 8 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5697.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 9 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5698.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 10 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5699.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 11 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5764.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 12 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5765.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR ALQUILER 18 (MULTIAUDIO)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5771.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Action
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29311.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Action 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29312.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Box Office
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29313.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Box Office 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29314.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Comedy
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29315.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Discovery
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29317.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Drama
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29318.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Horror
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29319.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Horror 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29320.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Kids
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29321.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Kids 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29322.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Movies
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29323.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Movies 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29324.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Thriller
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29325.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Netflix Thriller 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29326.ts
-#EXTINF:0 tvg-id="Alquiler1.es" group-title="SPAIN FHD",ES: TAQUILLA 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29327.ts
-#EXTINF:0 tvg-id="Alquiler2.es" group-title="SPAIN FHD",ES: TAQUILLA 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29328.ts
-#EXTINF:0 tvg-id="Taquilla3.es" group-title="SPAIN FHD",ES: TAQUILLA 3
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29329.ts
-#EXTINF:0 tvg-id="Taquilla4.es" group-title="SPAIN FHD",ES: TAQUILLA 4
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29330.ts
-#EXTINF:0 tvg-id="Taquilla5.es" group-title="SPAIN FHD",ES: TAQUILLA 5
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29331.ts
-#EXTINF:0 tvg-id="Taquilla6.es" group-title="SPAIN FHD",ES: TAQUILLA 6
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29332.ts
-#EXTINF:0 tvg-id="Mega.es" group-title="SPAIN FHD",ES: MEGA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5688.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOVISTAR CINE DOC & ROLL
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5700.ts
-#EXTINF:0 tvg-id="Classica.es" group-title="SPAIN FHD",ES: CLASSICA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5545.ts
-#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="SPAIN FHD",ES: MEZZO LIVE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5689.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ FEST
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5648.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MTV 00s
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25941.ts
-#EXTINF:0 tvg-id="MTV2.sp" group-title="SPAIN FHD",ES: MTV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5712.ts
-#EXTINF:0 tvg-id="VH1.es" group-title="SPAIN FHD",ES: VH1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5749.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MULTI DEPORTE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5713.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="SPAIN FHD",ES: NAT GEO
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5714.ts
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="SPAIN FHD",ES: NAT GEO WILD
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5715.ts
-#EXTINF:0 tvg-id="Neox.es" group-title="SPAIN FHD",ES: NEOX
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5718.ts
-#EXTINF:0 tvg-id="NonStopPeople.es" group-title="SPAIN FHD",ES: NON STOP PEOPLE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5722.ts
-#EXTINF:0 tvg-id="Odisea.es" group-title="SPAIN FHD",ES: ODISEA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5724.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ORBE 21
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5725.ts
-#EXTINF:0 tvg-id="Panda.es" group-title="SPAIN FHD",ES: CANAL PANDA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5726.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: POPULAR TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5728.ts
-#EXTINF:0 tvg-id="Sundance.es" group-title="SPAIN FHD",ES: SUNDANCE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5731.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="SPAIN FHD",ES: SYFY
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5732.ts
-#EXTINF:0 tvg-id="Telemadrid.es" group-title="SPAIN FHD",ES: Telemadrid
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5736.ts
-#EXTINF:0 tvg-id="Ten.es" group-title="SPAIN FHD",ES: TEN
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5738.ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="SPAIN FHD",ES: TOROS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5740.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG -TV Galicia
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5742.ts
-#EXTINF:0 tvg-id="TV3cat.es" group-title="SPAIN FHD",ES: TV3 CAT
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5743.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVE INTERNACIONAL
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5745.ts
-#EXTINF:0 tvg-id="Viajar.es" group-title="SPAIN FHD",ES: VIAJAR
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5750.ts
-#EXTINF:0 tvg-id="XTRM.es" group-title="SPAIN FHD",ES: XTRM
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5751.ts
-#EXTINF:0 tvg-id="ETB2.es" group-title="SPAIN FHD",ES: ETB 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5759.ts
-#EXTINF:0 tvg-id="ETB1.es" group-title="SPAIN FHD",ES: ETB 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5760.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 1 (LIVE EVENT)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24103.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 2 (LIVE EVENT)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24107.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 3 (LIVE EVENT)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24104.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 4 (LIVE EVENT)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24105.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PPV 5 (LIVE EVENT)
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24106.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CNN
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25923.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 324
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25924.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: À Punt
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25925.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: AMC Break
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25926.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: AMC Crime
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25927.ts
-#EXTINF:0 tvg-id="Beteve.es" group-title="SPAIN FHD",ES: Betevé
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25928.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Castilla La Mancha Media
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25929.ts
-#EXTINF:0 tvg-id="Dark.es" group-title="SPAIN FHD",ES: DARK
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25930.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: El Toro TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25932.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Esport 3 CAT
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25933.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: EITB Basque
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25934.ts
-#EXTINF:0 tvg-id="Euronews.es" group-title="SPAIN FHD",ES: Euronews
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25935.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: La 7
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25937.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: La Resistencia
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25938.ts
-#EXTINF:0 tvg-id="LaOtra.es" group-title="SPAIN FHD",ES: La Otra
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25939.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: M+ Cracks
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25940.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Sol Music
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25942.ts
-#EXTINF:0 tvg-id="Telesur.es" group-title="SPAIN FHD",ES: Telesur
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25943.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Musigal
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25944.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Momentos G
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25945.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Infantil
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25946.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Eventos 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25948.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Eventos 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25947.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG Cultura
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25949.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TVG América
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25950.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Ubeat
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25951.ts
-#EXTINF:0 tvg-id="A3seriesHD.es" group-title="SPAIN FHD",ES: Atreseries
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25952.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 25 TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29307.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Bailen TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29308.ts
-#EXTINF:0 tvg-id="ElGarage.es" group-title="SPAIN FHD",ES: Garage TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29309.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: Telesur Madrid
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29310.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL SUR 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29334.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: VISION 6
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29335.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TELE ONUBA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29336.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: TELE BILBAO
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29337.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: STAR TVE
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29338.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: SOFY TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29339.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: RAKUTEN 1
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29343.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: RAKUTEN 2
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29342.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: RAKUTEN 3
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29341.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PEQUERADIO TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29344.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PTV SEVILLA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29345.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PTV MÁLAGA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29346.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: PTV GRANADA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29347.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ONDA ALGECIRAS TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29348.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: NORTEVISION
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29349.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MYTIME MOVIE NETWORK
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29350.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MOLAHITS TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29351.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: INTERALMERÍA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29352.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: IMÁS TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29353.ts
-#EXTINF:0 tvg-id="HispanTV.es" group-title="SPAIN FHD",ES: HISPAN TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29354.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: DW EN ESPAÑOL
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29356.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: COMEDY DYNAMICS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29357.ts
-#EXTINF:0 tvg-id="Cazavision.es" group-title="SPAIN FHD",ES: CAZAVISIÓN
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29358.ts
-#EXTINF:0 tvg-id="CanalEstrellas.es" group-title="SPAIN FHD",ES: CANAL DE LAS ESTRELLAS
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29359.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 7 TV REGION MURCIA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5548.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL MALAGA
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29661.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: BON DIA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29663.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: ALCARRIA TV
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29664.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: 091 ALERTA POLICIA 24/7
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29665.ts
-#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: CANAL DIOCESANO TOLEDO
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29666.ts
 
 #EXTINF:0 tvg-id="avi" group-title="SERIES | SPANISH",22 de julio S01 E01
 http://pikasolu.top:8080/series/61677426049169070/1831677426049169/36708.mp4
