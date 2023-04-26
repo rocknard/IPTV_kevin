@@ -548,6 +548,48 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 http://fireott.biz:2052/802411455218374/802497856238254/96443
 
 
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 01 FHD (Solo Eventos)
+http://97015276737321480.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321480.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 02 FHD (Solo Eventos)
+http://97015276737321481.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321481.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 03 FHD (Solo Eventos)
+http://97015276737321482.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321482.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 04 FHD (Solo Eventos)
+http://97015276737321483.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321483.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 05 FHD (Solo Eventos)
+http://97015276737321484.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321484.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 06 FHD (Solo Eventos)
+http://97015276737321485.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321485.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 07 FHD (Solo Eventos)
+http://97015276737321486.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321486.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 08 FHD (Solo Eventos)
+http://97015276737321487.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321487.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 09 FHD (Solo Eventos)
+http://97015276737321488.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321488.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 10 FHD (Solo Eventos)
+http://97015276737321489.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/321489.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 11 FHD (Solo Eventos)
+http://97015276737323230.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323230.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 12 FHD (Solo Eventos)
+http://97015276737323231.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323231.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 13 FHD (Solo Eventos)
+http://97015276737323232.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323232.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 14 FHD (Solo Eventos)
+http://97015276737323233.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323233.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 15 FHD (Solo Eventos)
+http://97015276737323234.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323234.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 16 FHD (Solo Eventos)
+http://97015276737323235.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323235.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 17 FHD (Solo Eventos)
+http://97015276737323236.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323236.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 18 FHD (Solo Eventos)
+http://97015276737323237.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323237.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 19 FHD (Solo Eventos)
+http://97015276737323238.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323238.ts
+#EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 20 FHD (Solo Eventos)
+http://97015276737323239.nicebabm.xyz:80/play/GTCDNR9DW5/3625821374/323239.ts
+
+
 #EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (UHD) M+ LALIGA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54535.ts
 #EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: (HD) M+ LALIGA
@@ -650,6 +692,7 @@ http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29667.ts
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5617.ts
 #EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ #VAMOS
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5630.ts
+
 
 #EXTINF:0 tvg-id="LA1.es" group-title="SPAIN FHD",ES: LA 1
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5622.ts
@@ -1052,6 +1095,7 @@ http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29666.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="SPAIN FHD",Discovery
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
 
+
 #EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",⚽ Premier League⚽
 http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/330316.ts
 #EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Sky Sports Premier League
@@ -1082,6 +1126,7 @@ http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283024.ts
 http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283025.ts
 #EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: BT Sport ESPN FHD
 http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283026.ts
+
 
 #EXTINF:0 tvg-id="avi" group-title="VOD | SPAIN",ma lei le paga le tasse? (1971)
 http://pikasolu.top:8080/movie/61677426049169070/1831677426049169/35134.mp4
