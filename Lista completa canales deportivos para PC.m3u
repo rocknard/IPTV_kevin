@@ -1052,6 +1052,37 @@ http://pikasolu.top:8080/live/61677426049169070/1831677426049169/29666.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="SPAIN FHD",Discovery
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
 
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",⚽ Premier League⚽
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/330316.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Sky Sports Premier League
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/282999.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Sky Sports Football
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283000.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Sky Sports Main Event
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283001.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Sky Sports Arena
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283002.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Eurosport 1 HD
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283005.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Eurosport 2 HD
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283006.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: LFC FHD
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283010.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Premier Sports 1
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283015.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Premier Sports 2
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283016.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: Sky Sports Cricket
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283018.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: BT Sport 1 FHD
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283023.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: BT Sport 2 FHD
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283024.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: BT Sport 3 FHD
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283025.ts
+#EXTINF:0 tvg-id="ext" group-title="# Premier League ⚽",SP: Premier League: BT Sport ESPN FHD
+http://185.53.88.153:2095/live/iptvking939j/dJqYxQzJNV/283026.ts
+
 #EXTINF:0 tvg-id="avi" group-title="VOD | SPAIN",ma lei le paga le tasse? (1971)
 http://pikasolu.top:8080/movie/61677426049169070/1831677426049169/35134.mp4
 #EXTINF:0 tvg-id="avi" group-title="VOD | SPAIN",3 días en Quiberón (2018)
