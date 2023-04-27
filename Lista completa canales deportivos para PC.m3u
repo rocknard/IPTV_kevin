@@ -339,6 +339,9 @@ acestream://955c7754b0f2f5d52725b910379d60e45152e6e4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal_M%C3%A1laga_RTV.jpg" group-title="TDT" tvg-id="Canal Malaga", Canal Malaga
 acestream://6531c754d04ef1b6694f23daf0b8b7feb1387b19
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="TDT" tvg-id="Hits 360 HD", Hits 360 HD
+acestream://b38cf48cc43cb1cc60f4d406d570f856d1783bf8
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 - 1080", Sport Tv 1 - 1080
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
