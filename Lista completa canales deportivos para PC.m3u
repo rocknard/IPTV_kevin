@@ -206,7 +206,7 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
-acestream://2ef31f4ff1539e3d6871cd054e675d6384050396
+acestream://9cc535aa14f47220bcffbc65f8b60c770524f584
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
 acestream://172a0843a8f136659ab139af2d247bcfac602d05
@@ -257,9 +257,6 @@ acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV HD 29-04", Mundotoro TV HD 29-04
 acestream://350e84f85b1b87d4b0659d09b0155de11f886c43
-
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Feria de Abril HD 28-04", Feria de Abril HD 28-04
-acestream://9bed244d2f4e5b1234bd9f3e1efc845d02fe836f
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV IPTV", Mundotoro TV IPTV
 https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8?Manujaz
