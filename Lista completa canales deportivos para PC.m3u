@@ -106,6 +106,8 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 2 720", M.Liga Smartbank 2 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="MotoGP" tvg-id="MOTO GP by NanOID", MOTO GP by NanOID
+acestream://9cc535aa14f47220bcffbc65f8b60c770524f584
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 MotoGP", DAZN 1 MotoGP
 acestream://8c69914eb2ad331e67a700bcecc347a630465c44
