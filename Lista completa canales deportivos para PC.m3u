@@ -170,6 +170,9 @@ acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="F1 TVPRO", F1 TVPRO
 acestream//63add41b197c2492f2ec7156cdedb427e999370b
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="F1 TVPRO 1080 60fps", F1 TVPRO 1080 60fps
+acestream://0b0280578d8b145562f4f4584c83261a56404843
+
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="Sky Sports F1 SD", Sky Sports F1 SD
 acestream//28710e9057927317c869b11d669c28a4d77a6ab3
 
