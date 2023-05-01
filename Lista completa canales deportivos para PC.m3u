@@ -273,10 +273,10 @@ http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/148929
 #EXTINF:0 tvg-id="ext" group-title="Mundotoro",ESP-4: MUNDOTORO TV 🐂 IPTV
 http://iptv2020.ddns.net:25461/Jovi/cKJgq34UO8/142425
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD IPTV
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD", Mundotoro TV HD IPTV
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?Cari
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD" group-title="Spain",Mundotoro TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD", Mundotoro TV HD
 https://cari@telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?cari
 
 
