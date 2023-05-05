@@ -11598,3 +11598,6 @@ http://127.0.0.1:6878/content/1310a3b4fcc2ad91e7f6b9d2ad45a7ff83a7ed7f/0.2555256
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Peter_Pan_Wendy-948058747-large.jpg" group-title="Peliculas con Acestream" tvg-id="Peter Pan & Wendy 2023", Peter Pan & Wendy 2023
 http://127.0.0.1:6878/content/f6c956d2732db5d698b7f8c844e63f67be414c9d/0.661103531737
+
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/screenshot/default/imagen-2023-01-18-134456269_cwsq.jpg" group-title="Peliculas con Acestream" tvg-id="Ant-Man y la Avispa Quantumania 2023", Ant-Man y la Avispa Quantumania 2023
+http://127.0.0.1:6878/content/54c296abc861c2e34aa5a9e99935931c336c8b7e/0.0697372881163
