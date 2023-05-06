@@ -290,6 +290,12 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="TDT", TVE1
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="TDT", TVE1 HD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
