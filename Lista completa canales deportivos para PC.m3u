@@ -106,6 +106,9 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 2 720", M.Liga Smartbank 2 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,M+ LaLiga Smartbank 3 1080
+acestream://1104426e14b649eb23fee16698768544285de478
+
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="MotoGP" tvg-id="MOTO GP by NanOID", MOTO GP by NanOID
 acestream://9cc535aa14f47220bcffbc65f8b60c770524f584
 
@@ -290,10 +293,10 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="TDT", TVE1
+#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 
-#EXTINF:-1 tvg-id="" tvg-name="TVE1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="TDT", TVE1 HD
+#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1 HD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="Ellas #V", Ellas #V
