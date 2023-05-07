@@ -1,112 +1,112 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 Multi", M.Liga De Campeones 1080 Multi
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080", M.Liga De Campeones 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 720", M.Liga De Campeones 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 1080", M.Liga De Campeones 2 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="MM+ Liga de Campeones 2 HD", M.Liga De Campeones 2 1080
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 720", M.Liga De Campeones 2 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 HD", M.Liga De Campeones 2 720
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 1080", M.Liga De Campeones 3 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M.Liga De Campeones 3 1080
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 3 720", M.Liga De Campeones 3 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M.Liga De Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 4", M.Liga De Campeones 4
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 4", M.Liga De Campeones 4
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 5", M.Liga De Campeones 5
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 5", M.Liga De Campeones 5
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 6", M.Liga De Campeones 6
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 6", M.Liga De Campeones 6
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 7", M.Liga De Campeones 7
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 7", M.Liga De Campeones 7
 acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 8", M.Liga De Campeones 8
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 8", M.Liga De Campeones 8
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 9", M.Liga De Campeones 9
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 9", M.Liga De Campeones 9
 acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 10", M.Liga De Campeones 10
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 10", M.Liga De Campeones 10
 acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 11", M.Liga De Campeones 11
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 11", M.Liga De Campeones 11
 acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 12", M.Liga De Campeones 12
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 12", M.Liga De Campeones 12
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M.Liga 1080 Multi
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi", M.Liga 1080 Multi
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M.Liga 1080 Multi
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga Especial", M.Liga Especial
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M.Liga Especial
 acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M.Liga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 720", M.Liga 720
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M.Liga 720
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 1080", M.Liga 2 1080
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M+ LaLigaTV 2 HD", M.Liga 2 1080
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M.Liga 2 720", M.Liga 2 720
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M+ LaLigaTV 2 HD", M.Liga 2 720
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M.Liga Bar 1080", M.Liga Bar 1080
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="LaLigaTV Bar HD", M.Liga Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M.Liga Bar 720", M.Liga Bar 720
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="LaLigaTV Bar HD", M.Liga Bar 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", Dazn La Liga 1080 Multi
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", Dazn La Liga 1080 Multi
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 720", Dazn La Liga 720
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga", Dazn La Liga
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 2 1080 Multi", Dazn La Liga 2 1080 Multi
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 1080 Multi
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga 2 720", Dazn La Liga 2 720
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 720
 acestream://05241e69091eedbb354f2651d30c83f40d1bb653
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 1080 Multi", M.Liga Smartbank 1080 Multi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD", M.Liga Smartbank 1080 Multi
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 720", M.Liga Smartbank 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD0", M.Liga Smartbank 720
 acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 2 1080", M.Liga Smartbank 2 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M2 HD", M.Liga Smartbank 2 1080
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg-id="M.Liga Smartbank 2 720", M.Liga Smartbank 2 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M2 HD", M.Liga Smartbank 2 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,M+ LaLiga Smartbank 3 1080
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,M+ LaLiga Smartbank 3 1080
 acestream://1104426e14b649eb23fee16698768544285de478
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="MotoGP" tvg-id="MOTO GP by NanOID", MOTO GP by NanOID
@@ -537,46 +537,46 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrUE2rTRsjXaVedSLJekfGjsnmk
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CqgEtynLPG6KcepQvCP4yM2DtCEM1LexSiTcLvwuEMFedfKk_P_Bv8wnCA8DLm4avJ5RCGVTTGTZ9Cv2JvTsPzKV80rL90Ce8kxnljCZFqNqLekHRtWnGiLBeumnIs7qTRoFVsmvYz49hB0wK4Xao7kdgQ7trJthib2is41pvlPAXSFNrO3dBp-PzOE_46vS7rWmCXFNofbsS-YgoyYwmyn9lP7GcDYbX-8XA6FrQ98AXl_rFtQ3g0zlW8-i0gXzCTn_3N8nnu89pohm7R3uWMpAgb3UgEzhSCxtD4LTpQYAQcpqWp00-Fy26seJu0ApMKRUYCz-kfbONfkqEGk_eSrd7oGvenOzexCg3oDm3d-6mIwFOi_1YtbEmgZKCt-VqqK2UBUzttzPFOrA5TbVzVlFSy-vOaaRus1o_ruH21XowooWbZLAg_1KDyA6w142k5LKW5Q8UcegWmyK0MICgQIs4ua6fPlL7irbDYwclEycRJTN5W0PcSm-XlHbhPIgFYScTcmKtGD2_Puf3HxX9EdJbA8ZhOUGjl9zss03MdggVZ4X1VpnoqafiuzlrkW3S-s3Z-244rb3j4ovLcux7IvYKWcnQZJftXzXMAamnYStgSZ1K6za2JsuaFCKqBJp9JD7OAoX-VtvnsVI2hyzaBBtSk8q1QIo8LoLMAorzVKpgMN6ahFQXXetIkCb4KhkcppMvFsu_rvTCbOaGPr9cqMDSm9J7I0YqVV7GgxRInLsugnsbm1addsgASoJZXUtd2VzdC0yMMEG.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
+#EXTINF:-1 tvg-id="La2.es" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
+#EXTINF:-1 tvg-id="TV3 HD" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 FHD
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 FHD
 http://88898603094321105.ofio.xyz:80/play/N3TS8M9SCR/0440985393/321105.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT", CUATRO FHD
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT", CUATRO FHD
 http://88898603094321196.ofio.xyz:80/play/N3TS8M9SCR/0440985393/321196.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TELECINCO FHD
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TELECINCO FHD
 http://88898603094321429.ofio.xyz:80/play/N3TS8M9SCR/0440985393/321429.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA FHD
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA FHD
 http://88898603094321288.ofio.xyz:80/play/N3TS8M9SCR/0440985393/321288.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
+#EXTINF:-1 tvg-id="LA SIETE HD" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
 http://88898603094336295.ofio.xyz:80/play/N3TS8M9SCR/0440985393/336295.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
+#EXTINF:-1 tvg-id="ext" tvg-name="ARAGON TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar TDT", BE MAD
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar TDT", BE MAD
 http://88898603094321126.ofio.xyz:80/play/N3TS8M9SCR/0440985393/321126.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Murcia" tvg-logo="" group-title="Movistar TDT", Murcia
+#EXTINF:-1 tvg-id="ext" tvg-name="Murcia" tvg-logo="" group-title="Movistar TDT", Murcia
 http://88898603094381751.ofio.xyz:80/play/N3TS8M9SCR/0440985393/381751.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ClanTVE.es" group-title="Movistar Infantil",ES | Clan TVE
