@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
@@ -267,9 +267,6 @@ acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV HD 05-05", Mundotoro TV HD 05-05
 acestream://4e5adb4d300b9bfbfbabffcce014540d2078bc89
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV HD 30-04", Mundotoro TV HD 30-04
-acestream://99666158d821cdf81ba3b10156e4df3edf89b970
-
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV IPTV", Mundotoro TV IPTV
 https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8?Manujaz
 
@@ -533,8 +530,8 @@ acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 07-05
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrUE2rTRsjXaVedSLJekfGjsnmkSp2TctUnh44EAtgkXYYFlYDDFPrtx8YUALtQOThlVPU3JcluYB_R4cDkoyOb4rgxXtK7rAjS-u9Ri6hGb2mk-9cJeiDnL49ylbThXcJo6EqJM4mnF7WGBeDGsCIVwMNRRMrjo0mfOq3E0Rr7z_5Sm0JIMIX59a9smzeRX-PqunseLlAKUILA6Tct5A_cOra_734jBDzOf7bm3_-CJlBumcvD0imD7uXxustn3k43yxbasDNLy1HVNUvOYZ59-ND6Tab31NnoZ_YJdTsucwaZAWR8N2tWLNlhbI9zqUZNqjINdEEBjQQOdx5ruJkX2yESRAsui6jg20EPrsfkurdIFTTsOPeHyiUBxDnJWaEVPGz4fcXMzpK7msfrzf8wXLUNZUa0_fxwYgc4aX6hk332XC_82ji2qeJzghimYkPODoHOg5wfWcIHBLd-GPV1vjGQSafdY7uR5nE92q_Clis9OecRS5NNVtpC9XFkvu7MLWZ6nqqm_p4ble3woRdMGf-e0NIgzSvmrcLj0pt9Bmyql9nQpNo92IAUcRsTvfpzXsItA4XBMldFSHv-OuEnD5eywirpYjxZSUm5UzhHwycdprS9ZCFSM6ykxficgWJdTo4rLhgkfkklUkCK1MfOcXFKKlK97_qOxfpXW7V_d7UOhWcbeXbkfznxb4JMgDcHdy4Fh-ALbrWrwOxq1w0MhBUY45O8MhWhEoQUfWPtLxcSRDj88ABoM1rSAjchy9tKs4VmTIAEqCWV1LXdlc3QtMjDBBg.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 09-05
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CsEEMdsGlcSVz3BI4jvdSUUd0nlUS_v_v_jICQjwiZnjGdMXXHzDkK2tajZXKy2BpQA2UOOYjk5Cbocd8DJm5Xqky5aBAED-6GnTt6AU0bhZ1C7jFWdH6LLMW136MMGT_plXP7rQ6GfptUmgjBCB6DutbQmgLRisR3ajz-8NBEzokNOKoOtDVdFsYHOoC7XXLCK0pVJRaniLP-ctkZLdCzjR-42tFcfcvrYrlHyNmuqFkQMgR-qPhKZW--uDjpdtG0bykPNAigwAf7q_6Rls_yr-nOfuhePtGvPIZO8Sms3QxuIxFFW9rP8RQwhA6bToAgVE5HxCCvVvCn4xrNJCBqwJxBOy25Rm--TKqXRsGyv6_7NRuRRpAiChrMu_vdBjs34anK5EemcH-120dkjPQ4RA9rxyvT5tLzwIRwjAui6lqxNFA9EVBftnH1f0bWaVKlrgrNX6ntNEuL29AUrJj2h4wSkbfEy-B38oSyeoJ-Jnke5WfrarSK1Pr0BcXYIvX1e25X9bbVH26D4zQyTITzocp5zo5j5bZoMCzgGBCbiaoNm2EsQIktw43bw-YHED0wDoDyyfFJMcLnLuTMcVOex2667i07CZE7q-q-jRHnebQYQlr2mF2N6sQav1ruqG__l7DUDj0RWyDeTsdqxZxZENEzxth-WxxSwWRbrlEbxah4Tggq4Vg-leYGrYbpzlO7CMTYxpvZ7NeoXzkw41BO7ubZiHXxLxm0-4mjW5LPYhsfI4oKAeZL_q6Tis75QUlwZB9xoMFJDbMdgDvpMd_9BpIAEqCWV1LXdlc3QtMjDDBg.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 07-05
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CsIEUW6En_hst0IYhVWLA6eF--rahTG0DIHuZQ1S25dkS3u38hx1XJbJMsqhn2C1PTPUAwYdKf4_6pamygsHkECLpXWnuBL1hQWtdXnTT7ZKt2f33oKqGFwkQ4gp-XFDEhUheFLQCrDrqdYbBQ8pWNhpe642fwm21wqxPXtCTgWXq48zASqRGSKBw75M-IPCmhL3QMtoseTt3NeOrF_YiKwseMRsIXtyBUcBsvj_LrzI0dMonoHXp2FJBuGqyN0gy-wschlkPHci6ImcXhrSeHif-fA6ZJpnpp-tG0LT2Yev56metBEcu1rpdQdw4vLSttgHynsczbDPKydAdc7MTOCyC2rnTuBpH0Goib7G4qUWgeaghYEO8kQh2oraBK6HYGqiHP65uMt9OPS2n_Q6XWK4hkl6chr-4-4mXdQn6wy8JXvwSawIdJ3-PjC-S9U7JoWS4T9LEp5tUWEOi-tKrYc3xAKfr_xo-BQjDsRYds_Oz5aRufQOcHbuvx1vaIWiNSJy52fL-CJh8mpGWaXOUiiUiiwf7dV8ahafaiAgddwJ7rrBAt6R1rqdOEDhXGgYRtEI4mCguG5gJTBFEhfypJQ5vh5lKpkG_UiGqqSh3GzorGaEG3D3-V38fENjNswyXWF7wU37fmuTz14FZNeOyh-G748-ldS6RIGrvhok6C5ckjhriZ70MIv8ObYfrR3vaXh408aSSmz8eSc1SDqDrLhI_2g5REJm-acRmV1PmBHh6c9Yij4KxsU6m1WrBU8krB9_ZmsaDJ_nYjwg7jWn3kLFgCABKglldS13ZXN0LTIwwQY.m3u8
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
