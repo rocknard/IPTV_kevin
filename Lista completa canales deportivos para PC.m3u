@@ -11620,3 +11620,10 @@ http://127.0.0.1:6878/content/667fc710c15178cd1591cd95e7c2fbd69b62e726/0.3861705
 
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/23/03/13/09/13/4910814.jpg" group-title="Peliculas con Acestream" tvg-id="ext", Dangeons & Dragons entre ladrones 2023
 http://127.0.0.1:6878/content/3785cfa8f2b8e82438fd821e0cc3d87709f75521/0.976822373234
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/3100/3196/dest_1.jpg" group-title="Peliculas con Acestream" tvg-id="ext", Las brujas de Waifair cap 1
+http://127.0.0.1:6878/content/18dade16f1f3bd30d2906a78d166e4a392a4a40a/0.374086245882
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/3100/3196/dest_1.jpg" group-title="Peliculas con Acestream" tvg-id="ext", Las brujas de Waifair cap 2
+http://127.0.0.1:6878/content/a7f355dd2f8bc667f1ddfee02b8e6f55d036f70b/0.214473184581
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/3100/3196/dest_1.jpg" group-title="Peliculas con Acestream" tvg-id="ext", Las brujas de Waifair cap 3
+http://127.0.0.1:6878/content/288a9c96d319807ece433d2c339563165484856c/0.741657482018
