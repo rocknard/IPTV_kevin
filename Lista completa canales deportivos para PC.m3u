@@ -264,20 +264,20 @@ acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV HD 05-05", Mundotoro TV HD 11-05
-acestream://9761db7eddf50a1ed35e0c5684c00b5c18b6a5d6
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV HD 05-05", Mundotoro TV HD 12-05
+acestream://071f4909a7cd69e42419986039c180221dcd4c6e
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV IPTV", Mundotoro TV IPTV
-https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8?Manujaz
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV IPTV", Mundotoro TV SD IPTV
+http://95099966756441852.nice511.xyz:80/play/GTCDNR9DW5/3625821374/441852.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Mundotoro",ESP-4: MUNDOTORO TV HD IPTV
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+http://95099966756441851.nice511.xyz:80/play/GTCDNR9DW5/3625821374/441851.ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD", Mundotoro TV HD IPTV
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?Cari
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD", Mundotoro TV FHD IPTV
+http://95099966756333642.nice511.xyz:80/play/GTCDNR9DW5/3625821374/333642.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Mundotoro TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro",Mundotoro TV HD", Mundotoro TV HD
-https://cari@telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8?cari
+http://95099966756333643.nice511.xyz:80/play/GTCDNR9DW5/3625821374/333643.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 - 1080", Eurosport 1 - 1080
@@ -521,14 +521,13 @@ acestream://ae5ed4e0dcde8ebaa1df885958d7578a1548baef
 acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 07-05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 11-05
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrUE2rTRsjXaVedSLJekfGjsnmkSp2TctUnh44EAtgkXYYFlYDDFPrtx8YUALtQOThlVPU3JcluYB_R4cDkoyOb4rgxXtK7rAjS-u9Ri6hGb2mk-9cJeiDnL49ylbThXcJo6EqJM4mnF7WGBeDGsCIVwMNRRMrjo0mfOq3E0Rr7z_5Sm0JIMIX59a9smzeRX-PqunseLlAKUILA6Tct5A_cOra_734jBDzOf7bm3_-CJlBumcvD0imD7uXxustn3k43yxbasDNLy1HVNUvOYZ59-ND6Tab31NnoZ_YJdTsucwaZAWR8N2tWLNlhbI9zqUZNqjINdEEBjQQOdx5ruJkX2yESRAsui6jg20EPrsfkurdIFTTsOPeHyiUBxDnJWaEVPGz4fcXMzpK7msfrzf8wXLUNZUa0_fxwYgc4aX6hk332XC_82ji2qeJzghimYkPODoHOg5wfWcIHBLd-GPV1vjGQSafdY7uR5nE92q_Clis9OecRS5NNVtpC9XFkvu7MLWZ6nqqm_p4ble3woRdMGf-e0NIgzSvmrcLj0pt9Bmyql9nQpNo92IAUcRsTvfpzXsItA4XBMldFSHv-OuEnD5eywirpYjxZSUm5UzhHwycdprS9ZCFSM6ykxficgWJdTo4rLhgkfkklUkCK1MfOcXFKKlK97_qOxfpXW7V_d7UOhWcbeXbkfznxb4JMgDcHdy4Fh-ALbrWrwOxq1w0MhBUY45O8MhWhEoQUfWPtLxcSRDj88ABoM1rSAjchy9tKs4VmTIAEqCWV1LXdlc3QtMjDBBg.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 11-05
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CpwEN7j5JVRzoGzcJqpfr6RnfTEzdgrAFGsK5yzU5365Aqe0JkAcrUeOlyh509k2aFLHcdFKC6P6YIaB1XehNibeqccAvyW-f8JWO_HMwGKCfZPBYrF-0bN1IKpOaopbXqtYNPu2KwFPJ5lkiPl954SthAjo122WR0dNGGcZ9Ou_z_AfVo5YUPrlrBjj3i-u_IXJ1yEqeN-jXXYkW3IC3OvilYDf7Vb33RMzSv_GjCPLCAN2Deih3hyS-S8aSTxGEXLpesem6k9GcICmV6FG8PRrqFItQeh0doa7de7OZUS8FEh5tr1XYbA5EToduEyPpZR3IJVzyIO24cmAdTqwUo4awGm4lBcX6nsI29YL-gbDcN1VjTB1DA7BLcA0fc1oyj6yPJE-om_PI-lgoutO0FGVU8lrehbYW4Q2Nxhr7URJXHpNgNemFtdRFERb3YLTFFARKAEzZxqB2rQhAdlOIvUks-dV8jKSM_970TfZl7P11AaSETlo7R28REtUo9s9VVlmWUMB1JOZmwZKH1dJ49rISBDNRsw0VVC3YmI6YujYg4bkYv-9hJIEIDUYDDdlxnXKoVhkYU6clQeeFKeL8z2J6HI2ydaYtjmCBI_ByxVR1EDQW-GuWxKwafEtIhaueB8T7QLtH2atwuwNMjHUTvk2SQ9lTFZB_BrGuD9JQeoAGRIWk_h3-5_rUJoPMHKoOTVnAT0t4zGxTiQY1W86GgzCesZDtKbznqqB_qsgASoJZXUtd2VzdC0yMMUG.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 11-05
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CsIEUW6En_hst0IYhVWLA6eF--rahTG0DIHuZQ1S25dkS3u38hx1XJbJMsqhn2C1PTPUAwYdKf4_6pamygsHkECLpXWnuBL1hQWtdXnTT7ZKt2f33oKqGFwkQ4gp-XFDEhUheFLQCrDrqdYbBQ8pWNhpe642fwm21wqxPXtCTgWXq48zASqRGSKBw75M-IPCmhL3QMtoseTt3NeOrF_YiKwseMRsIXtyBUcBsvj_LrzI0dMonoHXp2FJBuGqyN0gy-wschlkPHci6ImcXhrSeHif-fA6ZJpnpp-tG0LT2Yev56metBEcu1rpdQdw4vLSttgHynsczbDPKydAdc7MTOCyC2rnTuBpH0Goib7G4qUWgeaghYEO8kQh2oraBK6HYGqiHP65uMt9OPS2n_Q6XWK4hkl6chr-4-4mXdQn6wy8JXvwSawIdJ3-PjC-S9U7JoWS4T9LEp5tUWEOi-tKrYc3xAKfr_xo-BQjDsRYds_Oz5aRufQOcHbuvx1vaIWiNSJy52fL-CJh8mpGWaXOUiiUiiwf7dV8ahafaiAgddwJ7rrBAt6R1rqdOEDhXGgYRtEI4mCguG5gJTBFEhfypJQ5vh5lKpkG_UiGqqSh3GzorGaEG3D3-V38fENjNswyXWF7wU37fmuTz14FZNeOyh-G748-ldS6RIGrvhok6C5ckjhriZ70MIv8ObYfrR3vaXh408aSSmz8eSc1SDqDrLhI_2g5REJm-acRmV1PmBHh6c9Yij4KxsU6m1WrBU8krB9_ZmsaDJ_nYjwg7jWn3kLFgCABKglldS13ZXN0LTIwwQY.m3u8
 
-
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
+#EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
