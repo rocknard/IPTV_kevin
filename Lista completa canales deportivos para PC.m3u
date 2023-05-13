@@ -392,26 +392,30 @@ acestream://e5dd056bbcbf637c7fa314288356a8024e426f18
 acestream://63ab9528b16e536be0da44d6f5aceac357292b95
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M.Deportes 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 720", M.Deportes 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 720
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="DEPORTES" tvg-id="M.Deportes 2 1080", M.Deportes 2 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="DEPORTES" tvg-id="M+ Deportes 2 HD", M.Deportes 2 1080
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" group-title="DEPORTES" tvg-id="M.Deportes 3 1080", M.Deportes 3 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" group-title="DEPORTES" tvg-id="M+ Deportes 3", M.Deportes 3 1080
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" group-title="DEPORTES" tvg-id="M.Deportes 4 1080", M.Deportes 4 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" group-title="DEPORTES" tvg-id="M+ Deportes 4", M.Deportes 4 1080
 acestream://08db089084ddbaceba7c239817407bf99708b9ad
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="DEPORTES" tvg-id="M.Deportes 5 1080", M.Deportes 5 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="DEPORTES" tvg-id="M+ Deportes 5", M.Deportes 5 1080
 acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M.Deportes 6 1080", M.Deportes 6 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M+ Deportes 6", M.Deportes 6 1080
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES" tvg-id="M+ Deportes 7", M.Deportes 7 1080
+acestream://ea687038106b88a30fbbf7f1c981eaf761aba720
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="DEPORTES" tvg-id="Tenis Live", Tenis Live
 acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
