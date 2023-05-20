@@ -115,6 +115,21 @@ acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,M+ LaLiga Smartbank 3 1080
 acestream://1104426e14b649eb23fee16698768544285de478
 
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M4 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank4.png" ,M+ LaLiga Smartbank 4 1080
+acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
+
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M5 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank5.png" ,M+ LaLiga Smartbank 5 1080
+acestream://a1146358aa50c99c887108b17f62f9264186a16a
+
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M6 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank6.png" ,M+ LaLiga Smartbank 6 1080
+acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
+
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M7 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank7.png" ,M+ LaLiga Smartbank 7 1080
+acestream://446e73a22582921393b020ed08b768ad8e14d75
+
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga SmartbankTV M8 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank8.png" ,M+ LaLiga Smartbank 8 1080
+acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="MotoGP" tvg-id="MOTO GP by NanOID", MOTO GP by NanOID
 acestream://9cc535aa14f47220bcffbc65f8b60c770524f584
 
