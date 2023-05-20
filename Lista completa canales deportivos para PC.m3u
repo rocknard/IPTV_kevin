@@ -73,6 +73,9 @@ acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M+ LaLigaTV 2 HD", M.Liga 2 720
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_3.png" group-title="LIGA" tvg-id="M+ LaLigaTV 3 HD", M.Liga 3 1080
+acestream://4c4844564313e39a888f593511f299f5ba3cf929
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="LaLigaTV Bar HD", M.Liga Bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
@@ -11626,7 +11629,7 @@ http://127.0.0.1:6878/content/f6c956d2732db5d698b7f8c844e63f67be414c9d/0.6611035
 http://127.0.0.1:6878/content/54c296abc861c2e34aa5a9e99935931c336c8b7e/0.0697372881163
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41z9B8%2B7uwL._SX342_SY445_QL70_ML2_.jpg" group-title="Peliculas con Acestream" tvg-id="ext", Legado de Sangre 2023
-http://127.0.0.1:6878/content/4c98e67ab37394ac75e179d0adeea0b052408186/0.238475861453
+magnet:?xt=urn:btih:4C98E67AB37394AC75E179D0ADEEA0B052408186&dn=Legado%20de%20sangre%20%282023%29%20%5bBluRay%20Rip%5d%5bAC3%205.1%20Castellano%5d%5bwww.nucleohd.net%5d&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2fthetracker.org%3a80%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=http%3a%2f%2fretracker.telecom.by%3a80%2fannounce&tr=http%3a%2f%2ftracker.electro-torrent.pl%3a80%2fannounce&tr=udp%3a%2f%2ftracker.justseed.it%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=http%3a%2f%2fretracker.mgts.by%3a80%2fannounce&tr=udp%3a%2f%2ftracker.cypherpunks.ru%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.swateam.org.uk%3a2710%2fannounce&tr=wss%3a%2f%2ftracker.btorrent.xyz
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/55PJNDJbD4Q9jFO4vaCnNl9dYEv.jpg" group-title="Peliculas con Acestream" tvg-id="ext", Siete Reyes deben morir 2023
 http://127.0.0.1:6878/content/667fc710c15178cd1591cd95e7c2fbd69b62e726/0.386170558046
