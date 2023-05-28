@@ -188,14 +188,11 @@ acestream//a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 720", DAZN F1 720
 acestream//a52bf7c28df63995ad427c32ebf1e517445720bb
 
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="F1 ALONSO", F1 ALONSO
-acestream://426b0f68a64fac1f6de71d47a7dfc4260d783014
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="F1 TVPRO", F1 TVPRO
 acestream//63add41b197c2492f2ec7156cdedb427e999370b
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="F1 TVPRO 1080 60fps", F1 TVPRO 1080 60fps
-acestream://0b0280578d8b145562f4f4584c83261a56404843
+acestream://4050da1ebb0669bc3206384188384e49616feee0
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="Sky Sports F1 SD", Sky Sports F1 SD
 acestream//28710e9057927317c869b11d669c28a4d77a6ab3
