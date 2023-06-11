@@ -8504,9 +8504,12 @@ http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
 #EXTINF:-1 tvg-logo="https://www.iralcine.com/img-peliculas/pelicula-la-ballena-the-whale-.jpg" group-title="VOD ESPAÑOL 2023" tvg-id="Super La Ballena 2023", La Ballena 2023
 http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
 
+
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg",Guardianes de la Galaxia (2023)
+acestream://7b0d8d86976abb7cd278baf546cd09cbb1eadad7
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRiZGU0NzUtZTcyYy00MjU4LThiMWYtOTI1OTkyNGM5MTcwXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",Crater (2023) 6.0
-e17ba28e55d295162835e0a2f874437002bfdde0
+acestream://e17ba28e55d295162835e0a2f874437002bfdde0
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMwNGQ2YTYtMDQzZi00YmRlLThkOWItYzUxOGM5YjRkZTQ2XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_.jpg",El exorcista del papa (2023)7.2
 acestream://3bba8c8c7a7eb01e415c488667621659229875ac
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_44132_78.jpg" group-title="Peliculas Acestream" tvg-id="Oso Vicioso 2023", Oso Vicioso 2023
