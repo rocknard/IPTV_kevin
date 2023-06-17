@@ -177,7 +177,7 @@ http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 http://127.0.0.1:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara
-http://127.0.0.1:6878/ace/getstream?id=5536d4f66609c0f8589922a13f1562609e9d3ba6
+http://127.0.0.1:6878/ace/getstream?id=dca8b79aadd3763786c255746b7712faa7db55e6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVPRO
 http://127.0.0.1:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a02
