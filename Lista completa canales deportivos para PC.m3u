@@ -447,9 +447,11 @@ http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES" tvg-id="M+ Deportes 7", M.Deportes 7 720
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="DEPORTES" tvg-id="TennisChannel.us", Tenis Live
 http://127.0.0.1:6878/ace/getstream?id=16089ab3f31a2756cf2ba6d507ff367cce14df83
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES" tvg-id="FOX SPORTS", FOX SPORTS
+http://127.0.0.1:6878/ace/getstream?id=d4aa975dd59ae7f4e68ceadee8b77d65e9fc1360
 
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
@@ -9169,6 +9171,8 @@ http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
 http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 (2023)
+http://127.0.0.1:6878/ace/getstream?id=76500ea6039f164a5f17310bcf50f485db5c434d
 #EXTINF:-1,tvg-logo="https://www.covercaratulas.com/mini-caratula-carteles-John_Wick_4_Por_Chechelin-49026.jpg",John Wick Chapter 4 (2023)
 http://127.0.0.1:6878/ace/getstream?id=9d1c49409ab68f4a6766541120385890865510c7
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg",Guardianes de la Galaxia (2023)
