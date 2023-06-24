@@ -9165,10 +9165,8 @@ http://972413569627320576.ot2339.xyz:80/movie/AUAU6WGHYP/7475542285/320576.mkv
 #EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2022",Z-O-M-B-I-E-S 3 (2022)
 http://972413569627320577.ot2339.xyz:80/movie/AUAU6WGHYP/7475542285/320577.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/The_Super_Mario_Bros_Movie_logo.png" group-title="VOD ESPAÑOL 2023" tvg-id="Super Mario Bros 2023", Super Mario Bros 2023
-http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
-#EXTINF:-1 tvg-logo="https://www.iralcine.com/img-peliculas/pelicula-la-ballena-the-whale-.jpg" group-title="VOD ESPAÑOL 2023" tvg-id="Super La Ballena 2023", La Ballena 2023
-http://51.81.208.167/pelis2023/The.Whale.2022.lati.mp4
+#EXTINF:-1 tvg-logo="https://dupao.culturizando.com/wp-content/uploads/2023/04/tsize_400x2000_poster-7-691x1024.png" group-title="Peliculas 2023", Medellin 2023
+http://127.0.0.1:32400/web/index.html#!/server/f11bb3a19bb86a9a9b215e20fe1ad05f9147ee19/details?key=%2Flibrary%2Fmetadata%2F597&context=library%3Acontent.library~2~1
 
 #EXTINF:-1,group-title="Peliculas Acestream"
 #EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 (2023)
