@@ -408,7 +408,7 @@ http://185.53.88.153:2095/live/BastianSuecia12243/AQNbBTDH6fUf/7508.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", Rally safari kenia 1080
-http://127.0.0.1:6878/ace/getstream?id=5cd5c9f5b7526e22e70059d0320537e850ff2391
+http://127.0.0.1:6878/ace/getstream?id=9f9262d9d57a227bb86e02ac9d3221de5d4d6e4c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", WRC +
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
