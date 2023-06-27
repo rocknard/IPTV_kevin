@@ -407,9 +407,6 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://185.53.88.153:2095/live/BastianSuecia12243/AQNbBTDH6fUf/7508.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", Rally safari kenia 1080
-http://127.0.0.1:6878/ace/getstream?id=7105058fc5d07a7a75c912c9211551458da2fc8c
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", WRC +
 http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 
@@ -1227,8 +1224,8 @@ http://127.0.0.1:6878/ace/getstream?id=8be8e3b857f19fa97637626bc91ae247ce7a795a
 http://127.0.0.1:6878/ace/getstream?id=5a63600a7d3cfd43aa844aa9f928551a8cde0fe8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 25-06
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEGmg4u_ChHDiLJOMMnljFGMlXOl2v7lXvkzLkrrzMPTojVGC3vdk1xyTSVyEp6Xt5BHa_oE5ZCL9jAovzkBacPKOjvZaK9zZlk1e7WJK_czobYN5b3AwLDtH8OvnETJVzXVVucrWTbJ8U9zuvd3PKdfpoHuiTdiwfoxD1pfGBYarMqVq8EqfaWVvTgmNoLwayE4t8lVWi0lxronPX1g1lp-p2EUe4VEoowPPWUtgic3k87y398XQSPfoAtat7-waxk82QorWmL0uRl4SwExjKQlonLTRp7jOnZPm_AVyq70yVjgpgmMC5uegb7eYCGYXik9XpWCGdFwa7Dcfhi7DH5y5LBCeja_Lk1XZZbvFRdBbK2LrRzH7QulHP7Fv-ALoGOdOxT3d7M5Z4UX289AQwxqH6A2y1WLReAqEbicE8wl1PkweXI_Ek9KXtxy-bM0u42dhrBRr_zOsDLsl_rO2C546EC8j7UlYuvcPYEnfzpMTqsSFdZteDlUC-sc2NppCEIOkY1dh1JmXlf2mgOKiPZUr8khc4BU0PuZcwEdyPvcvhWaHgBI0h42Ug71zJg1xJ03jIA4IITpUcyy_rfocAe1ftphvOi_wjoNhSmdtgBo7liWyFrNTPQeZKhiIds8_5Ugjyu0KzacpVVeEg0J6kg0ZklHVbi-t3JUdKXecJodl9InOe_6qXIwhPx7Fhsb2jeD13-CEvOw7sOb-aNsMM3xVX5k3JTFIkKX8slDsAyvkIKdH8uzO3XP6adGFDkOmNbywdG0_5LWak75LVQm3-jekaDFcCQtAL2-P4l5zpNyABKglldS13ZXN0LTIw8gY.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 27-06
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEwCseN9HqWVngjYrsHFXrFw6lDu3WvA6NhPkuS2TkScOPcwZZ-u4_zkrQb4eCry-hz7KjfHQShRbZOFKdlwSo5EBYnSi2uw40OTAdsTHKGjr2e3_Nl6RwR8L7YGLY9JkF9vWDbClCH9N90Qd-sSZwpcSjdMUdAQOqwbOXRNlO74bPvjsnnOojtJOawXeeMKpf_sV0VA5Mtntm5ihd_4krs_59PJ--sJL9gnEH88lfaZcIrPi9a5WtinElkvbzhzUL6o2kmltJ_2OJQoxM7PQCQAOZmrKochDYtnjTSy8Rlk_kb0sUbTvt9nD8tRgHU6n7VEtRiR9L4QZTODlRsx_hBHxfxsWohZD0A25OoRSPZjjxLaD_OkgKccdnnHwYCucY1AOOewN3bogmOy0gHCM7Mnmw_VdeWt-14xsf9_Ctc3UfdIE-al91NJcGfEO0DPFDqED2Xwpizo31WkgztEzuOkuuxoz0IEv_8yMGu4ybDdMU7kjvHoEkHZA4_dZS9nrcBEQCOsWQywpTL96IvkmpYu5rmhXhJMn4YdUBWm0XOaqR5mBYJfwnHZOspczkC05gKh3R73bVoji5SG3ctUar5xkqHzJelInjE-_KtBqF4N1nb5DcFsV6bwBY1req64ECm8RE4WmFBfPEZKexglpkVXYoU20o1iWqqlszohzdpjxztkDQAfwmJBNo6RTRr6ycFRtSJRKVK0KlDiwfD3DNziZD4r7nlTOU1Gu6dUYY5XWadVyhRbwMbvrxNipM73TiwvbXLYBlyO7gT4ipkfbAuu0aDMlnAq4TUQmXp6gwQiABKglldS13ZXN0LTIw9AY.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ikercasillas 25-06
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtQEgsKiI_Xf6f_v3KEx2i03dt7fvWCbL5qi3VuUTDlIl5nCxFiL9J3IMzxikxTERvy2pgI6CL2t1V5h3hEAlmCbvkU8myWrdApkgq5IbSik_ivWhRiEiblTq4KSkC-9EpX-Bh0WIPO5XMyqIWFMn36VS5lSGK2YqqCzJ98fRugHDv51WREJs8lmC2MRYixJNtcJVKU8PvmAVRP6jWDF6BSN8DkNeEvCBIYhtMxGvKtZFGp0xhiKJs5BU89Q-LieyXm9-u69MBdTvlGFa6Ktv4PkURrXLiAaHE-u8NWUUlEf0GzKJCZ4bN3TW7WSx-Yta9Qn2TPh6cT8AGSCNsixW__nnhLq26SMUCESed-LD7jBO4rpltoibdojvQa_EMuN5h7mdGtX8ySgqequanIWHrXu1iAWm_Zrg8C2H14I_hqo5dqnAKaDE9S8ZBer0hHkdVJCI1K-QLHELqCwjU8JkwCGLvQWysZWFy0TdU-tETNK-Zv2Hujb_JQss7jOpoNbUShzWcBrBlGiMaeRVfSNESC_fjfscJs_8vitvk9IaJuvLXQ67PfeObW5NSr6tUTY7k4IG0sUOzxh08h9WL_Kb3DDIafohZlEvUze5XkTFfc80qFekaLW91VSj11wvEaydvvhUGpzRiihjQGuMsE1KLVGMbpMoi0QgRi2yaPmf7_Z3Npn_uDG62Ww67zLuw1RK9Sd07IgXlxeLqOyovNtePevBWsQJ28UySrG2oR0_vvMz_y8TOoifOwGnLToXT1UhKJPbIal-b1nFAOo92qLOs66QGN5Fg8aDHvowtA_-1zFlGMNCSABKglldS13ZXN0LTIw8gY.m3u8
@@ -10161,8 +10158,20 @@ http://67258835132505706.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505706.mkv
 #EXTINF:-1,group-title="Peliculas Acestream"
 #EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 (2023)
 http://127.0.0.1:6878/ace/getstream?id=76500ea6039f164a5f17310bcf50f485db5c434d
+#EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 1080
+http://127.0.0.1:6878/ace/getstream?id=4c0ff05c13ff89ad49d4fe754759da4d06c2a134
+#EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 1080p
+http://127.0.0.1:6878/ace/getstream?id=e0729cf599c8bb64d56d87c0a0ca1e4398772ff9
+#EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 (4K)
+http://127.0.0.1:6878/ace/getstream?id=d88ae6031dc7a15508bf5b9a97ab8c6299b53577
 #EXTINF:-1,tvg-logo="https://www.covercaratulas.com/mini-caratula-carteles-John_Wick_4_Por_Chechelin-49026.jpg",John Wick Chapter 4 (2023)
 http://127.0.0.1:6878/ace/getstream?id=9d1c49409ab68f4a6766541120385890865510c7
+#EXTINF:-1,tvg-logo="https://www.covercaratulas.com/mini-caratula-carteles-John_Wick_4_Por_Chechelin-49026.jpg",John Wick Chapter 4 1080
+http://127.0.0.1:6878/ace/getstream?id=c5f5152304c28e707e6c09b7031c82d79327ba94
+#EXTINF:-1,tvg-logo="https://www.covercaratulas.com/mini-caratula-carteles-John_Wick_4_Por_Chechelin-49026.jpg",John Wick Chapter 4 1080p
+http://127.0.0.1:6878/ace/getstream?id=5667c4aad726adab0d13b23ca6660e287fa190f2
+#EXTINF:-1,tvg-logo="https://www.covercaratulas.com/mini-caratula-carteles-John_Wick_4_Por_Chechelin-49026.jpg",John Wick Chapter 4 (265)
+http://127.0.0.1:6878/ace/getstream?id=5ce9e116ace93f705ff92cb8fcea779ac7460c35
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg",Guardianes de la Galaxia (2023)
 http://127.0.0.1:6878/ace/getstream?id=8137a4fafe63136f832dfdd800281fc0584ac2d5
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTNhNWRmMDctYzE4OS00MzczLWJkODgtNzYxZTQxM2Y1YmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",Beau tiene miedo (2023)7.2
@@ -10344,6 +10353,10 @@ http://127.0.0.1:6878/ace/getstream?id=3bba8c8c7a7eb01e415c488667621659229875ac
 http://127.0.0.1:6878/ace/getstream?id=7a6ec230bffa211a6a8dfb62eab72327203a4ba2
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg",super mario bros (2023)7.7
 http://127.0.0.1:6878/ace/getstream?id=15604d9d9d2003a886a0e2ffd5037fbd38f720cb
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg",Super Mario Bros 1080
+http://127.0.0.1:6878/ace/getstream?id=42b4a39cfff3a276fce4f212dcfdf4777a477d94
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_FMjpg_UX1000_.jpg",Super Mario Bros (4K)
+http://127.0.0.1:6878/ace/getstream?id=76a2c712b929cf7294dd4877403f9dfe0557fdcc
 #EXTINF:-1,tvg-logo="https://lh3.googleusercontent.com/pw/AJFCJaXs_Q_uhoXZzNi2TbfvRfWZq_FEmkxM7JUuxdxRIYxIfIut4Xp9cb_rUfWbd2Wwqni4WlLq4FAwGLQ4dwtbin-hsbidhwF8mL5GXANSh_kEQWkvyc2Q=w2400",Posesion infernal El despertar (2023)7.1
 http://127.0.0.1:6878/ace/getstream?id=27ef03ccb39746caba6dbe37d32ac0a35f7e53a2
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY3MTZhZjUtMjY5Ni00ODhlLTg2YTQtMDY3MzI0MzdlMjEzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",Gigi y Nate (2022)8.1
