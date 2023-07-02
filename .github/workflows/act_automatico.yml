@@ -21,6 +21,8 @@ env:
 
 # This runs every day on 1801 UTC
 # 1 30 * * *
+# https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule
 
 on:
   schedule:
