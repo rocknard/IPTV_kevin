@@ -301,6 +301,9 @@ http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV 
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV 09/07
+http://127.0.0.1:6878/ace/getstream?id=cc316a6404e211cbd2a77369561ea911e9032d9e
+
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
 http://185.71.64.28:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96430
 
