@@ -260,17 +260,11 @@ http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="Fox 3 Argentina", FOX 3 Argentina
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf HD", M. Golf - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf HD", M. Golf
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf 2 HD", M. Golf 2 - 1080
-http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M. Golf 2 - 720", M. Golf 2 - 720
-http://127.0.0.1:6878/ace/getstream?id=d6ed18556fc6d039a9afd2cabc850f6c8b65ccaa
-
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/laliga-sports-tv.jpg" group-title="Varios" tvg-id="Laliga Sport petanca", Laliga sport Petanca
-http://127.0.0.1:6878/ace/getstream?id=426b0f68a64fac1f6de71d47a7dfc4260d783014
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Varios" tvg-id="I640.101736.schedulesdirect.org", M. Golf Mexico
+http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="beIN Sport ñ1", beIN SPORT ñ1
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
@@ -10202,6 +10196,22 @@ http://67258835132505705.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505705.mkv
 http://67258835132505706.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505706.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYxYWU3MGYtOTllOS00NmUxLTk4OTItNTMyNmVmZDMzNjFlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Mari(dos) (2023)
+http://127.0.0.1:6878/ace/getstream?id=f6006435cfae70cdcb0c73f6f2c0cea1d8f56c1d
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_44132_78.jpg" tvg-id="Oso Vicioso 2023", Oso Vicioso (2023)
+http://127.0.0.1:6878/ace/getstream?id=ef46c90b3f05712a3f00bdf3fea37165dcb720c2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGY0ZThmM2YtZjQ2NC00ZTJmLWExYjAtN2NhOTQ2YzFhZjgzXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_.jpg",Unos suegros de armas tomar (2023)
+http://127.0.0.1:6878/ace/getstream?id=89e63cc77070d45bd177695fcbf567927e2eb680
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhmNGRiNDktMTZlYy00MTdkLWI0NGQtOWMwMjVmMDgxNzIzXkEyXkFqcGdeQXVyNzI3NjQ3ODM@._V1_.jpg",Bad City (2022)
+http://127.0.0.1:6878/ace/getstream?id=fca7d845e6e81e05213b43c98a3fe35ebd6ed948
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNiNzdiN2EtYzc0NC00OGRiLTkxNzMtNzI5ZjFlZmVlODg3XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",Robots (2023)
+http://127.0.0.1:6878/ace/getstream?id=6290d0eb819f78b5daa3178cb371c1346a075cfb
+#EXTINF:-1,tvg-logo="https://cineclubtoledo.com/wp-content/uploads/2023/02/12-EL-DESPERTAR-DE-MARIA.jpg",El despertar de Maria (2022)
+http://127.0.0.1:6878/ace/getstream?id=29421503ffe604ddc3ca3533fad974f6dae1d6e8
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe4f396ac7106a19602f44d0a9bb172ba49f59290038768de24cdcbc8c2b29e5._RI_TTW_.png",Los iniciados (2023)
+http://127.0.0.1:6878/ace/getstream?id=9e27c39b1c21ced2787d161277b3b15b8d7a01f9
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/7/w1280/4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg",Cash (2023)
+http://127.0.0.1:6878/ace/getstream?id=acestream://6ade3b54c67fb7014dacf61373cbb5a6223957a3
 #EXTINF:-1,tvg-logo="https://www.neocine.es/recurso/articulo/fast_and_furious_10_97112.jpg",Fast And Furious X (2023)
 http://127.0.0.1:6878/ace/getstream?id=68b6a4f18c39f9b97e312ca765606323ca29bdeb
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ4ZDA0MjctYTQ5MS00YTQzLTk4YTYtYjI0ZGZiNTA4NzMyXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg",Hijos (2023)
