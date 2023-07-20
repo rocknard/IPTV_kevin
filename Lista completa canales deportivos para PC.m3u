@@ -222,10 +222,10 @@ http://127.0.0.1:6878/ace/getstream?id=c300ecb07d854c1730b04ea022c3fb0a184d7801
 #EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="Sport 360", Sport 360
 http://127.0.0.1:6878/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="BT Sport" tvg-id="BT Sport1", BT Sport1 [UK]
+##EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="BT Sport" tvg-id="I413.1805.tvguide.co.uk", BT Sport1 [UK]
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://seekvectors.com/files/download/BT-sport-2-01.png" group-title="BT Sport" tvg-id="BT Sport2", BT Sport2 [UK]
+#EXTINF:-1 tvg-logo="https://seekvectors.com/files/download/BT-sport-2-01.png" group-title="BT Sport" tvg-id="I414.1807.tvguide.co.uk", BT Sport2 [UK]
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" group-title="BT Sport" tvg-id="BT Sport3", BT Sport3 [UK]
@@ -421,11 +421,11 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://185.53.88.153:2095/live/BastianSuecia12243/AQNbBTDH6fUf/7508.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", WRC +
-http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="I414.1807.tvguide.co.uk", WRC +
+http://127.0.0.1:6878/ace/getstream?id=4b4e4277ee6b7f3041cf7d1a708862b3330b1b4b
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC2 +", WRC2 +
-http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="I414.1807.tvguide.co.uk", WRC + [PL]
+http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg-id="FS1", FS1
 http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
@@ -434,10 +434,10 @@ http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 http://127.0.0.1:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="WTP", WTP [IPTV]
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WTP [IPTV]
 https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="WTP", WTP [IPTV2]
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WTP [IPTV2]
 http://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1688976166~acl=%2f*~data=hdntl~hmac=7ca942cc2bceba18a02a4915f9f0a490cbf66d4033d1119d440c14cd969c4213/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
 
 
@@ -1270,8 +1270,8 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEE9PwBNv0OA7ocj8hofH4a2w4
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 11-07
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0E8j-XqSihjLyTJOrjRhwEW2Aukk4sIC92z5XixbQ7XEYFjELxLmZLOjEWixiBhRMlNb4iQ9voSBJOU2QOD0oczAiKkB_MRwaY859laPMaZjhIYhKtva1tuw1Zy-ZDysT2QImGmDmvWMe6YQU8nIUQDQGsxWloLD8zYXDx3YOaxpji4YOsCpioB2kYmV0cZ45SAY_y8Bts3Q6ncFMRc7A1zEVTR5fDvD0cRkh5e8PJ1mNA7BAtvb__HH4aDUoUEKz_XKXBEvNEu7isrGmJl5ob4aY2c0FriC1SviIkLa2hxZKvRrOkh0WgWkmA52nb6Ee0UUZX9Xb5QLF_bs1sls-I5ItvPSskDv79X8m2u82epjJLfLXjJXsz7z-g_j_KB3uJ41CZi9SaAMJ2hlaXJHF6sXINkR-9rFBxYcToaKLfDkL3Bw0T27qC2ufwhzmTf2T9zMOapr5eayiMUpFs0y2Xep9It9GK68bur2JhToZuSBK70YaYP8S9eKmIbn80SC8erSdS6ABXiBV1b6d8szGR0MA3NYAGYwqL3n4jZ7NTxiLskbasWoP1uIdq_3Ohb9vJ6TelUAKqYffPK6TAzvdeHQgzUqPgt_70Iy8IKiIoZROvkuA1g_IuK2D0XJJiIV0AKXXM1cGgHWSWCHOZMVlxe7b1O-vaT409ge-vRFXO7HfL8tX4IselhGqQIlhIAULuu6W9wD4QmWZlVle3zlySzVpXF3DGYgPr4gAaxQC1kHmBuOdxPQmMB5MSJCuXsssxBcngQpJK94MM8QH0sbtc9JBP-XCKzTAcTsfja3waDA1Qcd9104uj1LBftCABKglldS13ZXN0LTIwggc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 16-07
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrgEtSDgfHMDknQsY0jXIk8YtY5GlCmWRL-xQJQIy7ZPlN3L4WC-FDyew_6NQSd-clGzH4dJjBRX7EszQlC4CxjunjI8p4pF8FG0mcnTiLuRbSXBl2EKemcZbWLT0ejI79FutmtzmrppoVZiT0w8qQsE3GbNFJG7S4H47cKbWlF8jfFnp9fXafxxWtdnIWRADsWHQwAq_ugQ_9xe81aTuis-4G_4JUnPPXD-oRqLn9q1ShD1mf8zz7LpwjcisWTMxgvq1dA14dQo9kO7hvgmXnkPwxDT79JFOsnJaT1N9R7r0_bQ0ZWrq-XBVZ_6yL2Yax5hp_Jfm64GAdeIwX1_9R-kqXg1aDObioQsnI1am0voyWSwOOcLkZyYxM3Ty61a2DYk64StcaHkFlzXutc5njPLi76D6H9Jfaus7HQcPbxVIFoLxbEdKOb9P5y2wIdUJiLXuu6zfz3-3LL3x_Gwwvwt5aRS8d-wKVsg8Klsw3AjFtKV5u415r1bFCiSPFhZv4BZJp5y9WaKFVVYSoSdBf9vyGv-8G0AroQo2GGJX7U7d98ROSAiZfoSrQ7z87nQANO-FRi_mLzK9NWFmCZ8Czs0t_PSME5WjRbFkEjkgxfzDyGKU08QBuFPvf6ffTsGFo2JfnqxmOaQMV3Tz-KCpETmw5G7Mhfo4BE13KsgSBsi1Hw0SO_bkD8SrGoqo8uyjttrXovROOGjH65ljzB64lpMfKIh211q3ZmoKXVUVkTdjhLFOie2nI0WVRoMyAnKSWJrzBwaK2VKIAEqCWV1LXdlc3QtMjCHBw.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 20-07
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrcEHsOR51gTK-d-8cKWs4ZfMNA3m9YyX7r3F-dXhyuz5lQYFx_9-EeYleObinO6XbggvuE5rTBMKOThNyANZD9V1Qhbxb6J2h8djqzJ5cO_EX1w8BsAVDGGd_uMsdom-KbzVhPnRLTfLE6WOJWUJ4QUqFCtB06DNDv0PwLxQZAiLU2vbfQwA7b6TJinN_d52GMRq1Tt9g6O3UVBbgJr3DTGSU5QDJuGJj1m4Zxtdo7bUuh4bQIrGMlQHHtmAwVK322kuGYHFtJ4deHz-bhXnOhEAYILPHCjb-dS96F56A-k9Qi0drE3qYgC3-UH3fAABAwg-5CQxpZgTn9uaNP_Vt9MTfgRJsZOTgjDWACNgwULGtm-UfSFdTvoE1w3SdgFB1pcYsyQeci3LCZUVOM8KUw__RxM5es4DnDY8BHGiCE6LfL01vwx6mponlCikvLog5dkrXMQGcgLr-bjf0mKRQ6GeuwsiAWtlepBpOEZFD4XaihR2FLrorx9q-ykb2QgrQyzGNyUhxP0DH3MI-mm46OCvosWMoRSx0UXMJlSWGgGGe_DEkqFQQl1S2ux-XUkhcj4R-lM7uQ0Ptxvd2O70oecYd8HcxGNwuFo6Pgv0SCM4GGASqwu8KBtw20WxGr9aZ7lduWleyNrtSgeLEf8Eo5cLc99YV2vV4cb4Ork5LyDUqeriKbxMo8A0adAItJyPjI2ekv0POVRNidOvvUsXrfe1epDect75Rma08KbCaQ4CoR2AaJkihp6GgzaiuVBn_TjLko6FuYgASoJZXUtd2VzdC0yMIsH.m3u8
 
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
