@@ -5,11 +5,12 @@ env:
   UPSTREAM_URL: "https://github.com/KevinMcfly/canales-Acestream.git"
   # Required, token to authenticate bot, could use ${{ secrets.GITHUB_TOKEN }} 
   # Over here, we use a PAT instead to authenticate workflow file changes. 
-  WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+  WORKFLOW_TOKEN: ${{ secrets.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 }}
   # Optional, defaults to main
+  # test mio ${{ secrets.WORKFLOW_TOKEN }}
   UPSTREAM_BRANCH: "main"
   # Optional, defaults to UPSTREAM_BRANCH
-  DOWNSTREAM_BRANCH: "main"
+  DOWNSTREAM_BRANCH: ""
   # Optional fetch arguments
   FETCH_ARGS: ""
   # Optional merge arguments
