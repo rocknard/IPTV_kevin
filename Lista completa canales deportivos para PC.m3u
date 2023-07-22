@@ -49,10 +49,10 @@ http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
 http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Cooming Soon 1
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Champions Tour 1080
 http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Cooming Soon 2
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour 2 HD", Champions Tour 720
 http://127.0.0.1:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
 
 
