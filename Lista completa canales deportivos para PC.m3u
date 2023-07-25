@@ -334,25 +334,31 @@ http://127.0.0.1:6878/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
 http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV 
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV 
 http://127.0.0.1:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV 09/07
-http://127.0.0.1:6878/ace/getstream?id=cc316a6404e211cbd2a77369561ea911e9032d9e
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV FHD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321445.ts
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV FH
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321446.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV SD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321449.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV
 http://185.71.64.28:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96430
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", MUNDOTORO TV FHD IPTV
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV FHD IPTV
 http://454396946848441850.of529.xyz:80/play/Lobato01/57542532/441850.ts
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", MUNDOTORO TV HD IPTV
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV HD IPTV
 http://454396946848441851.of529.xyz:80/play/Lobato01/57542532/441851.ts
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", MUNDOTORO TV SD IPTV
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV SD IPTV
 http://454396946848441852.of529.xyz:80/play/Lobato01/57542532/441852.ts
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV
 http://185.233.16.53:80/play/ff08274/2343800298/441850.ts
 
 
@@ -3540,6 +3546,8 @@ http://972413569627468007.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/468007.ts
 
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
 http://972413569627246282.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/246282.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES (HD)
+ttp://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165358.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
 http://972413569627165358.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/165358.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES SD
@@ -3548,6 +3556,8 @@ http://972413569627165359.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/165359.ts
 http://972413569627262412.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/262412.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4K
 http://972413569627282468.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/282468.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 (FHD)
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165365.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 FHD
 http://972413569627165365.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/165365.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 HD
@@ -3581,6 +3591,8 @@ http://972413569627282466.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/282466.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD (OP1)
 http://972413569627282467.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/282467.ts
 
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA (HD)
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA FHD
 http://972413569627165385.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/165385.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA HD
@@ -3589,6 +3601,8 @@ http://972413569627165392.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/165392.ts
 http://972413569627165393.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/165393.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LA LIGA FHD (H 265)
 http://972413569627262413.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/262413.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M. LALIGA MULTI 2 (HD)
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165398.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 HD
 http://972413569627165398.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/165398.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 3 HD
@@ -3648,22 +3662,30 @@ http://972413569627489195.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/489195.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LaLiga SmartbankTV 5 SD
 http://972413569627489196.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/489196.ts
 
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD (H265) FHD
+http://972413569627228390.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228390.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD
+http://972413569627373766.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/373766.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 SD
 http://972413569627228384.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228384.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 (HD)
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228385.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD
 http://972413569627228385.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 (HD)
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 HD
 http://972413569627228388.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228388.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 FHD
 http://972413569627228389.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228389.ts
-#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD (H265) FHD
-http://972413569627228390.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228390.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 FHD (H265) SD
 http://972413569627228391.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228391.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 FHD (H265) FHD
 http://972413569627228392.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228392.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 FHD
 http://972413569627228393.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228393.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 (HD)
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228394.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 HD
 http://972413569627228394.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228394.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 SD
@@ -3672,12 +3694,12 @@ http://972413569627228395.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228395.ts
 http://972413569627228396.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228396.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 FHD
 http://972413569627228397.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228397.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 (HD)
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228398.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 HD
 http://972413569627228398.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228398.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 SD
 http://972413569627228399.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/228399.ts
-#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD
-http://972413569627373766.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/373766.ts
 
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="ES EUROSPORT",ES: EUROSPORT 1 FHD
 http://972413569627290348.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/290348.ts
