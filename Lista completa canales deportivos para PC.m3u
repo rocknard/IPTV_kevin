@@ -10641,6 +10641,30 @@ http://67258835132505705.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505705.mkv
 http://67258835132505706.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505706.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Vuelo_al_laimite-156278052-mmed.jpg",Vuelo al límite (2023) Blueray
+http://127.0.0.1:6878/ace/getstream?id=932b40e541fd29a10816f911cd2d774fcf065709
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Vuelo_al_laimite-156278052-mmed.jpg",Vuelo al límite (2023) 1080
+http://127.0.0.1:6878/ace/getstream?id=acestream://4fd9d811aeda7c3e5cf4cddc1b278369e47cefcf
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_hotel_de_los_laios_Garcaia_y_Garcaia_2-546257923-large.jpg",El hotel de los líos 2 (2023) Blueray
+http://127.0.0.1:6878/ace/getstream?id=2b196b93ea0f5ddc65cf7a3f5719483034c26d0f
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_hotel_de_los_laios_Garcaia_y_Garcaia_2-546257923-large.jpg",El hotel de los líos 2 (2023) 1080
+http://127.0.0.1:6878/ace/getstream?id=6904bb52d9d68222b22a9bae91d1bb4a50cd19b9
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Apaches-400564343-large.jpg",Apaches (2023)
+http://127.0.0.1:6878/ace/getstream?id=7d4897d55117e5808a1d2cd419f1cad9c69113e7
+#EXTINF:-1,tvg-logo="https://rockandfilms.es/wp-content/uploads/2023/03/Novembre.jpg",Noviembre (2023)
+http://127.0.0.1:6878/ace/getstream?id=924d6225856d0dad120b7c9d14e6bbef664aa311
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/zom_100_zombie_ni_naru_made_ni_shitai_100_no_koto-352676989-mmed.jpg",Zom 100 (2023)
+http://127.0.0.1:6878/ace/getstream?id=8478a600f92b2709b467bd070b95a442f2ed826a
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/ras_bras-252602591-mmed.jpg",Frente a frente (2023)
+http://127.0.0.1:6878/ace/getstream?id=53f65f8dffec4a85bea44e32c2721ece5ae06bc7
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles/17700/17755/001_m.jpg",Mavka la guardiana del bosque (2023)
+http://127.0.0.1:6878/ace/getstream?id=a3b30ef1fb265c048faa2cbb50d3ebdef6b0d88c
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/8/w1280/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg",Atrapaalmas (2023)
+http://127.0.0.1:6878/ace/getstream?id=7753ae42b3168b6e846a2a40bb190d7abf7f667a
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Los_olvidados_Cicatrices-771916776-large.jpg",Los olvidados cicatrices (2023)
+http://127.0.0.1:6878/ace/getstream?id=a6588e38cff59fe20c84743c2470ab1a7eff6f14
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Paint-489037126-large.jpg",Paint (2023)
+http://127.0.0.1:6878/ace/getstream?id=d2e2843e07fbb99dc36585f7b01c5167be1dbbab
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-717876501-large.jpg",Transformers el despertar de las bestias (2023)
 http://127.0.0.1:6878/ace/getstream?id=815d8a603e3ceec4177a7f3d33feeae4329d7f97
 #EXTINF:-1,tvg-logo="https://www.burjassot.org/wp-content/uploads/2023/06/Como-Dios-manda.jpg",Como Dios manda (2023)
