@@ -160,7 +160,7 @@ http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/9f02b0dace818a9965fab.jpg" group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD", LaLiga Hypermotion 2 720
-http://127.0.0.1:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/860380255e3d72bb46049.jpg", LaLiga Hypermotion 3
 http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
