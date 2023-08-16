@@ -11101,7 +11101,7 @@ http://67258835132505706.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505706.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/elemental-694000259-large.jpg",Elemental (2023)
-http://127.0.0.1:6878/content/ef451b1b9d7a17c457740687f58d2bc9510b72b6/0.562274913419
+http://127.0.0.1:6878/ace/getstream?id=cf4a58cc584846472c2b9323d7e195839108282b
 #EXTINF:-1,tvg-logo="https://i1.wp.com/www.themoviedb.org/t/p/w185/7Hk7in9Vck0tW6KG7LD2l5DrjdB.jpg",Rojo blanco y sangre (2023) 
 http://127.0.0.1:6878/ace/getstream?id=1807ae98aa8bf87234337bada2142516a7bff055
 #EXTINF:-1,tvg-logo="blob:https://web.tel.onl/64c258ce-f076-40a4-af8e-89ca812c1c1d",Agente Stone (2023) 
