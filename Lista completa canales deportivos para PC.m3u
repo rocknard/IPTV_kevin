@@ -11115,6 +11115,12 @@ http://67258835132505705.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505705.mkv
 http://67258835132505706.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505706.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/alguien_que_cuide_de_mi-266384141-mmed.jpg",Alguien que cuide de mí (2023)
+http://127.0.0.1:6878/ace/getstream?id=542211962f4a8de1e9bbb72dbd9192425894583c
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/les_petites_victoires-499377721-mmed.jpg",Las pequeñas victorias (2023)
+http://127.0.0.1:6878/ace/getstream?id=f45390c402a72d66ef6f2083edf339173699d383
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/foodies-944385861-mmed.jpg",Foodies (2022)
+http://127.0.0.1:6878/ace/getstream?id=79fcf23d854d2fff533b0547c1c85937d8f16ccd
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/elemental-694000259-large.jpg",Elemental (2023)
 http://127.0.0.1:6878/ace/getstream?id=cf4a58cc584846472c2b9323d7e195839108282b
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/nightmare_radio_the_night_stalker-521492497-large.jpg",Nightmare radio (2023)
