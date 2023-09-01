@@ -49,7 +49,7 @@ http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
 http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 
 
-#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id=Gol Mundial 1", Gol Mundial 1
+#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id="Gol Mundial 1", Gol Mundial 1
 http://127.0.0.1:6878/ace/getstream?id=78384a676407784df944243eb2f75d937fbcc253
 
 #EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id="Gol Mundial 2", Gol Mundial 2
@@ -210,6 +210,9 @@ http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
 http://127.0.0.1:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
+http://127.0.0.1:6878/ace/getstream?id=5fe18260bf2e180ee16e32b9162afb7ac18be9ad
+
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Jonathan
 http://127.0.0.1:6878/ace/getstream?id=37b382c9f9b1c55191f35ac90949457618f94060
 
@@ -284,10 +287,10 @@ http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Eurosport 1 HD", Boxeo USYK vs DUBOIS
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="ext", Evento del momento
 http://127.0.0.1:6878/ace/getstream?id=309380b5a2c02184f777826b6f1b1a81ac381b86
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento", Evento del momento 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="ext", Evento del momento 
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 
