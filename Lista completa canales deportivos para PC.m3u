@@ -1411,6 +1411,9 @@ http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
 #EXTINF:-1 tvg-id="LA SIETE HD" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
 http://398538678963165298.ofio.xyz:80/play/Benicarlo/Paco/165298.ts
 
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="Movistar TDT", TELEDEPORTE
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
 http://398538678963272448.ofio.xyz:80/play/Benicarlo/Paco/272448.ts
 
@@ -1493,6 +1496,8 @@ http://398538678963328844.ofio.xyz:80/play/Benicarlo/Paco/328844.ts
 #EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT 25 FHD  (Solo Eventos)
 http://398538678963328845.ofio.xyz:80/play/Benicarlo/Paco/328845.ts
 
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PELICULAS Y ENTRETENIMIENTO
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255182
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://972413569627321276.ot2339.xyz:80/play/AUAU6WGHYP/7475542285/321276.ts
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 HD
@@ -11166,6 +11171,8 @@ http://67258835132505705.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505705.mkv
 http://67258835132505706.of2304.xyz:80/movie/Zorro/R@AwjKJDpW/505706.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://www.burjassot.org/wp-content/uploads/2023/04/De-caperucita-a-loba-ok-460x367.jpg",De Caperucita a Loba (2023)
+http://127.0.0.1:6878/ace/getstream?id=8d4aa15cf88c9d7b35da7960e90b5fbe010f5a68
 #EXTINF:-1,tvg-logo="blob:https://web.tel.onl/08b4376c-90ae-4ece-985e-65ba06778006",Indiana Jones y el dial del destino (2023)
 http://127.0.0.1:6878/ace/getstream?id=eae1710c22b8605215afc2516c519d21654cc821
 #EXTINF:-1,tvg-logo="blob:https://web.tel.onl/41b56510-c36b-4ace-b8db-31a868cbfd0c",Megalodon 2 (2023)
