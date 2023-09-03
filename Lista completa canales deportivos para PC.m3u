@@ -91,7 +91,7 @@ http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi 4K
-http://127.0.0.1:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
+http://127.0.0.1:6878/ace/getstream?id=ac5b8784bb7dae0dbc6a2edc037fbf5c8d6a97d1
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -209,9 +209,6 @@ http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
 http://127.0.0.1:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
-
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
-http://127.0.0.1:6878/ace/getstream?id=5fe18260bf2e180ee16e32b9162afb7ac18be9ad
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Jonathan
 http://127.0.0.1:6878/ace/getstream?id=37b382c9f9b1c55191f35ac90949457618f94060
@@ -15052,25 +15049,31 @@ http://533524635825550994.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550994.mkv
 http://533524635825550995.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550995.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Los_buenos_modales-952957631-large.jpg",Los buenos modales (2023)
+http://127.0.0.1:6878/ace/getstream?id=65c3796dd12c1147c73f2d747078ff6f54f564bc
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_mejor_verano_de_mi_vida-275334251-large.jpg",El mejor verano de mi vida (2018)
+http://127.0.0.1:6878/ace/getstream?id=7ecf8895ef27cbb7d942ed2c475871ea2ababaaa
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/97_minutos-611031853-large.jpg",97 Minutos (2023)
+http://127.0.0.1:6878/ace/getstream?id=6bc662f452087fddb99eb9f8fffedbb0f1881f29
 #EXTINF:-1,tvg-logo="https://www.burjassot.org/wp-content/uploads/2023/04/De-caperucita-a-loba-ok-460x367.jpg",De Caperucita a Loba (2023)
 http://127.0.0.1:6878/ace/getstream?id=8d4aa15cf88c9d7b35da7960e90b5fbe010f5a68
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/08b4376c-90ae-4ece-985e-65ba06778006",Indiana Jones y el dial del destino (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Indiana_Jones_y_el_dial_del_destino-145866922-large.jpg",Indiana Jones y el dial del destino (2023)
 http://127.0.0.1:6878/ace/getstream?id=eae1710c22b8605215afc2516c519d21654cc821
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/41b56510-c36b-4ace-b8db-31a868cbfd0c",Megalodon 2 (2023)
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/23/05/09/10/42/0347977.jpg",Megalodon 2 (2023)
 http://127.0.0.1:6878/ace/getstream?id=511f19cb8699ce7d26a8ae1ea79ffe12fae7103e
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/41b56510-c36b-4ace-b8db-31a868cbfd0c",Megalodon 2 (2023) 4K
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/23/05/09/10/42/0347977.jpg",Megalodon 2 (2023) 4K
 http://127.0.0.1:6878/ace/getstream?id=8c7bc15b3cee851587798cac31c80f45b8710a2d
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/b3f18b5c-fc5d-469e-99d2-de89ec1c4a08",Insidius la puerta roja (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Insidious_La_puerta_roja-973676247-large.jpg",Insidius la puerta roja (2023)
 http://127.0.0.1:6878/ace/getstream?id=4e8dbe9c4ea9e7fd302726444a8b6f24948e9bde
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/b3f18b5c-fc5d-469e-99d2-de89ec1c4a08",Insidius la puerta roja (2023) 4K
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Insidious_La_puerta_roja-973676247-large.jpg",Insidius la puerta roja (2023) 4K
 http://127.0.0.1:6878/ace/getstream?id=d3e938d9aa5a47755a8348f2b58598630c5c48a8
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/b3f18b5c-fc5d-469e-99d2-de89ec1c4a08",Vaya vacaciones (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/aVaya_vacaciones-957309987-large.jpg",Vaya vacaciones (2023)
 http://127.0.0.1:6878/ace/getstream?id=22f7fdbca9164383bba755a084d13c9466428cd2
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/363301ad-eb37-4abe-81dd-c80e7fadf241",El rey mono (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_Rey_Mono-232332190-large.jpg",El rey mono (2023)
 http://127.0.0.1:6878/ace/getstream?id=56c1256eff9e2108afd682d37dbe6a2d471e9a77
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/fec65285-04aa-4b70-8b45-12d9fe62a5fd",Lego Disney princesas (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/LEGO_Disney_Princess_Misiaon_Castillo-964095837-large.jpg",Lego Disney princesas (2023)
 http://127.0.0.1:6878/ace/getstream?id=16da81490441830647dfaa52e649643a138f8cb7
-#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/6852ac50-5c5d-44b9-822a-64628010ed76",Unwelcome (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Unwelcome-289130461-large.jpg",Unwelcome (2023)
 http://127.0.0.1:6878/ace/getstream?id=f4a61eb7b8050450cb2cc2dffc9a381e8642c2c6
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/alguien_que_cuide_de_mi-266384141-mmed.jpg",Alguien que cuide de mí (2023)
 http://127.0.0.1:6878/ace/getstream?id=542211962f4a8de1e9bbb72dbd9192425894583c
