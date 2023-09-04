@@ -1,4 +1,4 @@
-name: Sync Upstream
+name: Sync Upstream test
 
 env:
   # Required, URL to upstream (fork base)
