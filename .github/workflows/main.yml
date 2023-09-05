@@ -1,4 +1,4 @@
-name: Sync Upstream
+name: Sync Upstream (no va, desactivado)
 
 env:
   # Required, URL to upstream (fork base)
