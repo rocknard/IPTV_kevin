@@ -1,8 +1,10 @@
-name: 'Upstream Sync'
+name: 'Sincronizar con repo orig'
 
 on:
   schedule:
-    - cron:  '0 7 * * 1,4'
+    - cron: '0 6,13 * * 1,2,3,4,5'
+    - cron: '0 6,13,15,16,17,18,19,20 * * 6,0'
+    #- cron:  '0 7 * * 1,4'
     # scheduled at 07:00 every Monday and Thursday
 
   workflow_dispatch:  # click the button on Github repo!
