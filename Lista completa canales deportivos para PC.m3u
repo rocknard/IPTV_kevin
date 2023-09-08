@@ -340,8 +340,8 @@ http://127.0.0.1:6878/ace/getstream?id=9b8feebaf07ced9351ad88da77ef617f82626c4b
 #EXTINF:-1 group-title="Varios" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sport 2
 http://127.0.0.1:6878/ace/getstream?id=02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
 
-#EXTINF:-1 group-title="Varios" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,SETANTA SPORTS 1080
-http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Varios" tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRpZ2l0dXJrLmxpZ3R2X2ljb25fMTU1NDM0OTkwMl8wNzI/icon.png?fakeurl=1&h=240&type=webp" ,beIN Soports HD [TR]
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 
 #EXTINF:-1 group-title="Varios" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2807.png" ,Canal+ Sport 360
 http://127.0.0.1:6878/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
@@ -468,6 +468,9 @@ http://127.0.0.1:6878/ace/getstream?id=6531c754d04ef1b6694f23daf0b8b7feb1387b19
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="TDT" tvg-id="Hits 360 HD", Hits 360 HD
 http://127.0.0.1:6878/ace/getstream?id=b38cf48cc43cb1cc60f4d406d570f856d1783bf8
+
+#EXTINF:-1 tvg-logo="https://www.inlife.tv/sites/default/files/logos/andorra-televisio.png" group-title="TDT" tvg-id="ATV Andorra
+http://127.0.0.1:6878/ace/getstream?id=3cd198f43f2d613190698054e0be4ad636dcce85
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sport Tv" tvg-id="Sport TV1 POR HD", Sport Tv 1 - 1080 [PT]
@@ -1377,8 +1380,8 @@ http://127.0.0.1:6878/ace/getstream?id=08055d9e1e149ae23c6c1ae0a25bff8b18ffb5a8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 01-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEcXZnyur0A26Gmf7MMskTNLbOT_5rdey0g4hs6D4bJEGQMC1ssdpL8wHocDI36pR3tCsg7B_8ci7LKswHEPHJ4_ie1xlqLmGENdFHCwSs9278dq0HucUitvZDH4guMskUfcrfBu6tRM4zBLKyujAPjC3Xek3oMj02IIIhdTFAqvRZcEXh6IILahGAsNXLATwDPBVAIVpDVfEczDhy7xbM69CxEtf_sTH09N4a0xR9ydiYmzxjY2AynJPASm_XkDIRoTFUTh0oly3v-Ona7jpb-VAwA8vQjRd6pmwtj3s6OScXqUO52bH02TNFPhFBnD-b5Ljogfm7OKbx-ndBtElJPL0v5C3UmIHxAHyWKLl0jhtrT17kAveUi5xpLuhurqM9moJhVJWfViH-YCoC9vSsy5ZKB_C9xo0O0O_1HLLjz7vEi-AKZOoQ_Zblw-lhbeIuT_K5uI4yABds647DQU47T0IADbotw-hys1xE0PnniVQEODBiMc53bQaBd3kRBU3_5JU0Q-BaOWCKrwp0lzULeidmaI5nIhShOzfsmPxAzqRG45WhRMvwtddFbZSDJRueACAZYvGyVK3Ch8E_McSXUc-aUFhUh_VDgr2A_IpjUIiyAYDYLnArYY6JoWBCF-GnLP-Cpjhc0AZhJoalIWoGafLA6LyIDG5m_Mv0fff_X4Qi6Nv-xjvTbLnRKmD_B2R7BMxXq2dAAhlbnBX2BSNHyx58tpvQg9lvwGhuwVMdDNmHlul3n-jSbHKjPDBRUJetqu7pvRgBlymJVz0op2ujhMAaDKPRykZq_EQ5rMBm3iABKglldS13ZXN0LTIwtgc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 05-09
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct4E0gN5BZtOSobJTljuEbIxGAi26s67igsitVYamM_xX4QdAJL8Cg5HWr0RfFakKAMiLAQzkSIYHkTZCFbVPTjq36PatfMgsgOgAmgILM6E_2BtlNm93eqCYm7UfpTM26-wKOV4EAP1xGTPPJGW6JibZpE4fB6zcvrNUUHoMFbj55hC7ahNRtHj2QBtiCiqarP_eg2mngvTWgqzJJev5dD50Qnx08Je9ei6G49pjMQ79RclK4RoyB-HqaMnM2d9edKNswQoKIdLxiBSG_s27zqWyPyaavE_fZU0CucXWfU31Jjg0yoTTSgJfikpKJy-zzRdmH56mA8mu8AC0tVmrIjYlHvbTu8zycDxixuhbXx1NK0Sb-XNTyDfQIZ-W6rZJVMgS4VvVNZOdu482demG_7zMnm7HVAsYQu7_XllkQ5UqUAjN7N9AdurvpuCrkvVsHzsW8h-HhePEUHnBq5SOgP5s1joeCi8JkIT8EYdlZIq1rC4HgTz9ZNmVgRnH7qIPaTnzmnOxaekV1lrz9r3PERrGef49cjZQIOEVJefTgshHPXgjMSKoZWvlqJwu0K1ifit41_Kl5MfF2k6bjmRR00OTG7qK3w9sYnBV97M5hS-9tP_y0HN78Tjz0KMpY2JMIdmpvt9CPjh8vTwUX824Ydqgml2Q2mvVaDjHM0sFRDKLqrps5j_rPZIrHc5M4atzldvFBN7XchXotKASTG9Vbu-ZoW6wvmcGLaiSo7aQ5eNGiIheK5602TLkzFNcS5HlVms_wnvxH6eYdLBK4KQBwpfDea-O3fcE8A9LTM2cZ1YGgxb5bPN-NjCWo0w1TsgASoJZXUtd2VzdC0xMLAD.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 08-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct0EufihRIDUug3upz-jgL8AbUN3zUhw7neoECn3ZbVQ2mYMf_fu4JdXpLQ9C_xdYglVfGWBkAd4aK5qBkawzgCy4NFqYBVpYYrkkKpxpIwmFGJ6oPrFThE1iwEFGItUPoJ91L3Xie8sF-sEOrY-gKXMkpCLsKhHkrR9zzkVduXig0KspSWkP_ezmehYIqI2UwG-tFefQulDnlj2pMNwA6SP7i9KUPBVUxzdQUKFn-ueC7bnXItS3FYQFFLJ1PsZr-Hj46APqk4fxctFerRyipgawP-OExByM79hHVU5Ohrg-c9da-OLLRTiJkSb3SyiTlapWZiK1r2KIWF7bShmNVobfid7sxvoCIBEyadalHUHkbr9YDf80HJCV0lJBBanqirJVTRrZGacfqAkR88-yY9rUC5jPGkPZm0lkIle_uyTxcQ9ZjTQHd5nAKT53qdm21eUR-v3qNqD90MBULNGcHS1FSj5JQOqViMtOSyS4_tSrtpXKdmoYFTRnj3nQmaYsY56Zf9muhQkgmBWfmGYD_WOHy6h8xtJ1Bg-6CW98KLrL6oV8O-KebJnK6jQCKETFCJbf7G2-G55DMUkrkk-gQjLU1KA_l0FpwsmX-GbwuIN3eCpkZ5qLDM3gPw6rRHA0jgODPcOnBVpg5j_1A4_DhtbN4I2GU55wQVczHY1PZLJNX93EbK5YPWQ2_1j98OpuB7Gh-GkosAanne-Q59emYV73p3UoR1CXnq_H2C1w7ruX-F0MBWQP6j-Zz5GjaNZPWIjEBLlZGSkhHMZUyDGlSa4YK8r6lb6oJ9wuVFJOaIaDEMpUFRsCi-YTzbZMiABKglldS13ZXN0LTEwswM.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 27-08
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgE3YCsnebaq3YEQCLwwLsekXYnujnjgLncU5uJtj2Vllusj9H1EHOcd36Ce6zEyoeBsyN3bHO2g2F_H6SE-_bN0DBtVDSfBGC79L05O6aH76tSPzy8YHN5jESIcUtSzmobkVSxGzgb-ClT0nM5sv8rFLUz7rjZwR4Cmf45YJfwrQvK1h5JnK6NreQ8GgnEYnlZV4Vj8g1GAfKS2qlTxxe7Eo2uLY5JgCQaxYdqsS7WCzPS8yb5Ncn-5BCmVZz2oPQJEOTdM20lij5L6bj7pv5RsN7eE-H8NSz-5sh1LK4zMR3tHMBUJiFHyqgD9PbhVCdMpdwiscUrZECH4g4mxr6XTXnjQNvbs7nwf81nFuH8rZ1GXrcEtP7IJOi1qAaR4ioKWZSkG4LK-64vEDoYdosgf3ygy1g4hV3uahkCoEP4fdu7-WfrBtxXq3hqtv8Qa5Rl7fDwV7mpqpXkRdP6Q9P2SCxmCzALJr0HLQBD23nHS91JDgGcw8ON249_jZsvYsw1po0WeOb4slaOd4piQi34yHc8qmgl0FUmTBG4T2emoVFmsG2Uirb8hLR9j0Hd2mYFUv1qFWf5ZPLPwCwb2kQ3uT94olsuoVuJ085-oSoey5KAxSMZtcS74mlE-i--GGBnvW61NqRCDCv5UASwkvMwBK6Hm9bTNPLk-z1PPijtCFcAfSS1jOTYs-eQO8ukKlFqo-K7JD4tzEe4WTkmH3k4GZSJ9lhrtlP7HFa_V5pRAeQLcfJIScI_tRoMFcTkmCqbbne5xkRgIAEqCWV1LXdlc3QtMTCsAw.m3u8
@@ -19500,35 +19503,35 @@ http://127.0.0.1:6878/ace/getstream?id=9ea5952f5cb78001b2ee35c099a28300e3daceb4
 http://127.0.0.1:6878/ace/getstream?id=13950b174b1da8b72e92c7de811c2f0166539205
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljNWE2YTMtZDNhNC00OGIyLTlmNGUtYTBlN2YzNGY5ZTM5XkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Los ultimos golpes del torete(1980)4.9
 http://127.0.0.1:6878/ace/getstream?id=d88ece10fb2e0583d5cc9cfcd1e33db2456c75b1
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1MDVjZTAtZjFiZC00ZThhLTgzODUtZDJlMmJjMWQ2MDlmXkEyXkFqcGdeQXVyODcwNzMxNg@@._V1_.jpg",group-title="kinki",Yo El Vaquilla(1985)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1MDVjZTAtZjFiZC00ZThhLTgzODUtZDJlMmJjMWQ2MDlmXkEyXkFqcGdeQXVyODcwNzMxNg@@._V1_.jpg",group-title="kinki",Yo El Vaquilla(1985)5.2
 http://127.0.0.1:6878/ace/getstream?id=bef103fca5f1b3fdc26af5f6ae361437490132d2
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4ZTA3ZWUtNWJkMy00M2I1LTkxZjMtMDRmYzY2ZTc3MjExXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",El Pico(1983)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4ZTA3ZWUtNWJkMy00M2I1LTkxZjMtMDRmYzY2ZTc3MjExXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",El Pico(1983)6.8
 http://127.0.0.1:6878/ace/getstream?id=0d614bfbdd5ec62566b83b2497f7d4b4e20ab30c
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4MzU2YzQtNGE0OS00NjI0LTk1YmEtODUwMDQ4YzE2ZmJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Pico 2(1984)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4MzU2YzQtNGE0OS00NjI0LTk1YmEtODUwMDQ4YzE2ZmJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Pico 2(1984)6.3
 http://127.0.0.1:6878/ace/getstream?id=3e33f625798c8dfccd1d712de337a258b636e1c9
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMTFlMmMtMzY2MC00MjRkLWFhYTctYTJhZWU5N2Y0ODJkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Deprisa Deprisa(1981)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMTFlMmMtMzY2MC00MjRkLWFhYTctYTJhZWU5N2Y0ODJkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Deprisa Deprisa(1981)6.9
 http://127.0.0.1:6878/ace/getstream?id=d934e59de6ef939bc0a3c829e7783a33ffaa971b
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",La Estanquera De Vallecas(1987)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",La Estanquera De Vallecas(1987)6.2
 http://127.0.0.1:6878/ace/getstream?id=d7e96b2ecc0201d9ab84ae171833de6aaf91e057
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",group-title="kinki",Navajeros(1980)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",group-title="kinki",Navajeros(1980)6.5
 http://127.0.0.1:6878/ace/getstream?id=483bd46eb25265bdfdcc6360c25cb74092351d9f
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Matar al Nani(1988)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Matar al Nani(1988)5.8
 http://127.0.0.1:6878/ace/getstream?id=4ef34e37e35d021f5eb1e9131b8b43e9b46d15ab
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Lute (camina o revienta)(1987)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Lute (camina o revienta)(1987)6.6
 http://127.0.0.1:6878/ace/getstream?id=b8bcff9ed628ca3872572af52d36b3bc57e982a7
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Colegas(1982)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Colegas(1982)6.4
 http://127.0.0.1:6878/ace/getstream?id=65487f262ed0cb80bd1e106139b1a1eca6947fd9
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJkZTliYjYtMjg3ZC00MDEwLWI3MmItMTM2NDdhN2UyNTU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Makinavaja El Ultimo Choriso(1992)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJkZTliYjYtMjg3ZC00MDEwLWI3MmItMTM2NDdhN2UyNTU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Makinavaja El Ultimo Choriso(1992)5.7
 http://127.0.0.1:6878/ace/getstream?id=689d9b57511286d9aae2ddfdd157c7ac73f7af08
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyZmVlYzItZTUxYi00ZjIxLThiNzEtOWVhMzhhZTdjNDNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Semos Peligrosos(1993)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyZmVlYzItZTUxYi00ZjIxLThiNzEtOWVhMzhhZTdjNDNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Semos Peligrosos(1993)5.1
 http://127.0.0.1:6878/ace/getstream?id=17e012d49c0416fc7be9745aa5362c0b47289ac8 
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmZDIxNWYtNTc2OC00ODAxLThhODYtMTMzYWYwM2NkNjMyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Sufre Mamon(1987)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmZDIxNWYtNTc2OC00ODAxLThhODYtMTMzYWYwM2NkNjMyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Sufre Mamon(1987)4.7
 http://127.0.0.1:6878/ace/getstream?id=d06d89024a8f69369342226d7901436c1b143690
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxZDdiYmQtNmFjMi00MTZlLTlhYTMtZDk1YjM3ZjM1Mzc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Barrio(1998)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxZDdiYmQtNmFjMi00MTZlLTlhYTMtZDk1YjM3ZjM1Mzc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Barrio(1998)7.1
 http://127.0.0.1:6878/ace/getstream?id=df5cdb0feded7fc6a845a4611a12e53f1a69e8af
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Volando Voy(2006)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Volando Voy(2006)6.3
 http://127.0.0.1:6878/ace/getstream?id=782b0cf6a71928cdd50b55b0cdfb2d0a6bd53926
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM0MzcyZmQtZDI0OC00ZWQ1LWI3YmEtNmZhYjNlZmRiZTk4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Criando.Ratas(2016)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM0MzcyZmQtZDI0OC00ZWQ1LWI3YmEtNmZhYjNlZmRiZTk4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Criando.Ratas(2016)6.4
 http://127.0.0.1:6878/ace/getstream?id=b95c27df37bc36ec61d10310629ed9be279966e8
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg",group-title="kinki",Las leyes de la frontera(2021)
 http://127.0.0.1:6878/ace/getstream?id=1e3378ba0b148c6a8a08393c7f0e4e727e1e6c7f
