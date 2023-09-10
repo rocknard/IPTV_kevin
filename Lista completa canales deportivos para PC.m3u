@@ -1377,8 +1377,8 @@ http://127.0.0.1:6878/ace/getstream?id=3ff3890a8298b59c819dc9da2c64f0d80853ca85
 http://127.0.0.1:6878/ace/getstream?id=08055d9e1e149ae23c6c1ae0a25bff8b18ffb5a8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 01-09
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEcXZnyur0A26Gmf7MMskTNLbOT_5rdey0g4hs6D4bJEGQMC1ssdpL8wHocDI36pR3tCsg7B_8ci7LKswHEPHJ4_ie1xlqLmGENdFHCwSs9278dq0HucUitvZDH4guMskUfcrfBu6tRM4zBLKyujAPjC3Xek3oMj02IIIhdTFAqvRZcEXh6IILahGAsNXLATwDPBVAIVpDVfEczDhy7xbM69CxEtf_sTH09N4a0xR9ydiYmzxjY2AynJPASm_XkDIRoTFUTh0oly3v-Ona7jpb-VAwA8vQjRd6pmwtj3s6OScXqUO52bH02TNFPhFBnD-b5Ljogfm7OKbx-ndBtElJPL0v5C3UmIHxAHyWKLl0jhtrT17kAveUi5xpLuhurqM9moJhVJWfViH-YCoC9vSsy5ZKB_C9xo0O0O_1HLLjz7vEi-AKZOoQ_Zblw-lhbeIuT_K5uI4yABds647DQU47T0IADbotw-hys1xE0PnniVQEODBiMc53bQaBd3kRBU3_5JU0Q-BaOWCKrwp0lzULeidmaI5nIhShOzfsmPxAzqRG45WhRMvwtddFbZSDJRueACAZYvGyVK3Ch8E_McSXUc-aUFhUh_VDgr2A_IpjUIiyAYDYLnArYY6JoWBCF-GnLP-Cpjhc0AZhJoalIWoGafLA6LyIDG5m_Mv0fff_X4Qi6Nv-xjvTbLnRKmD_B2R7BMxXq2dAAhlbnBX2BSNHyx58tpvQg9lvwGhuwVMdDNmHlul3n-jSbHKjPDBRUJetqu7pvRgBlymJVz0op2ujhMAaDKPRykZq_EQ5rMBm3iABKglldS13ZXN0LTIwtgc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 10-09
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtAEarlTFfleIVoMVC17I56feyUeCRQ6a-Q59dKvSBuGhzh5k0SoOlwENctsWH0BCibdljkq88zVyse9nHgoA74e1RKHyKoEymtS6DwkwOft5oPbTICSwxUfNiKfHTmef9vkBsXzLRC-2KkUrQ6VWp-7Z5YzSRIP-z74HgVZz-FNKxSz3aNiNLfS6DOqrG7YdskK0eagvmmwFFukYMK9OkIlDrsvlmq94sD9vtqXh8ejJaVksGj2RRMK62vQZ233LqbwQNP0_uuhULXpey-UhfbXySAnWKyd6wvuF0-k-NylFbIlTCv1KoGpvUHuQFl0KQfcWdysa4M35hbRXB7Grt8zzFbW0qZbgwrCZwHaK8h5VxUzQtyk4rGoi6lFbiNvd8SEZW4sg1ViGI8z6eIRzAxBqG4th0jyZdRAQPeR1q8gCGVKp6iWhPAWA5_tTksnPBr1-5Yx19r-mQPJQflpKXQW2uXtlanDhU4g-C036XDvjpV40UsaSX8otS_-k9ej2gEQP_IqTG8mSWzRRUeGXxafO7Z7MbxeqNjFmrqCqCbEDGlOOF4AsEeE1FnZFqnlXHx8q38v8_MEDlOngFm6yguj60ljj-ZNLv0aTAuQ5jGyHHouKx3ZrfoO8zrMeVzhksXERjBTi7QDBI3R1pWfLtb1rHlSDTkO-YyMT8KWabYHHVTaac88ni9vQoSz2sNwVvnwQfMIHscTruzrEr8YA0jtnf6xLWMS-FKkEEtSHYiIGM1GCoS4U-pJhCtlstESIbZFs1UTu47cl7ZTc9RA3SwlEhoMNleb9V-gdjRgSgN3IAEqCWV1LXdlc3QtMjC_Bw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 08-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct0EufihRIDUug3upz-jgL8AbUN3zUhw7neoECn3ZbVQ2mYMf_fu4JdXpLQ9C_xdYglVfGWBkAd4aK5qBkawzgCy4NFqYBVpYYrkkKpxpIwmFGJ6oPrFThE1iwEFGItUPoJ91L3Xie8sF-sEOrY-gKXMkpCLsKhHkrR9zzkVduXig0KspSWkP_ezmehYIqI2UwG-tFefQulDnlj2pMNwA6SP7i9KUPBVUxzdQUKFn-ueC7bnXItS3FYQFFLJ1PsZr-Hj46APqk4fxctFerRyipgawP-OExByM79hHVU5Ohrg-c9da-OLLRTiJkSb3SyiTlapWZiK1r2KIWF7bShmNVobfid7sxvoCIBEyadalHUHkbr9YDf80HJCV0lJBBanqirJVTRrZGacfqAkR88-yY9rUC5jPGkPZm0lkIle_uyTxcQ9ZjTQHd5nAKT53qdm21eUR-v3qNqD90MBULNGcHS1FSj5JQOqViMtOSyS4_tSrtpXKdmoYFTRnj3nQmaYsY56Zf9muhQkgmBWfmGYD_WOHy6h8xtJ1Bg-6CW98KLrL6oV8O-KebJnK6jQCKETFCJbf7G2-G55DMUkrkk-gQjLU1KA_l0FpwsmX-GbwuIN3eCpkZ5qLDM3gPw6rRHA0jgODPcOnBVpg5j_1A4_DhtbN4I2GU55wQVczHY1PZLJNX93EbK5YPWQ2_1j98OpuB7Gh-GkosAanne-Q59emYV73p3UoR1CXnq_H2C1w7ruX-F0MBWQP6j-Zz5GjaNZPWIjEBLlZGSkhHMZUyDGlSa4YK8r6lb6oJ9wuVFJOaIaDEMpUFRsCi-YTzbZMiABKglldS13ZXN0LTEwswM.m3u8
@@ -1448,46 +1448,46 @@ http://fireott.biz:2052/802411455218374/802497856238254/96443
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 1
-http://533524635825595391.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595391.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 2
-http://533524635825595392.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595392.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 3
-http://533524635825595393.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595393.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 4
-http://533524635825595394.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595394.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 5
-http://533524635825595395.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595395.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 6
-http://533524635825595396.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595396.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 7
-http://533524635825595397.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595397.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 8
-http://533524635825595398.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595398.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 9
-http://533524635825595399.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595399.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 10
-http://533524635825595400.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595400.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 11
-http://533524635825595401.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595401.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 12
-http://533524635825595402.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595402.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 13
-http://533524635825595403.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595403.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 14
-http://533524635825595404.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595404.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 15
-http://533524635825595405.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595405.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 16
-http://533524635825595406.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595406.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 17
-http://533524635825595407.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595407.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 18
-http://533524635825595408.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595408.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 19
-http://533524635825595409.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595409.ts
-#EXTINF:0 tvg-id="ext" group-title="ES FEFTV",FEFTV 20
-http://533524635825595410.of0828.xyz:80/play/Zorro/R@AwjKJDpW/595410.ts
+#EXTINF:0 tvg-id="FEF TV 1 Grupo 1" group-title="ES FEFTV",FEFTV 1
+http://99192014447595391.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595391.ts
+#EXTINF:0 tvg-id="FEF TV 2 Grupo 1" group-title="ES FEFTV",FEFTV 2
+http://99192014447595392.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595392.ts
+#EXTINF:0 tvg-id="FEF TV 3 Grupo 1" group-title="ES FEFTV",FEFTV 3
+http://99192014447595393.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595393.ts
+#EXTINF:0 tvg-id="FEF TV 4 Grupo 1" group-title="ES FEFTV",FEFTV 4
+http://99192014447595394.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595394.ts
+#EXTINF:0 tvg-id="FEF TV 5 Grupo 1" group-title="ES FEFTV",FEFTV 5
+http://99192014447595395.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595395.ts
+#EXTINF:0 tvg-id="FEF TV 6 Grupo 1" group-title="ES FEFTV",FEFTV 6
+http://99192014447595396.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595396.ts
+#EXTINF:0 tvg-id="FEF TV 7 Grupo 1" group-title="ES FEFTV",FEFTV 7
+http://99192014447595397.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595397.ts
+#EXTINF:0 tvg-id="FEF TV 8 Grupo 1" group-title="ES FEFTV",FEFTV 8
+http://99192014447595398.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595398.ts
+#EXTINF:0 tvg-id="FEF TV 9 Grupo 1" group-title="ES FEFTV",FEFTV 9
+http://99192014447595399.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595399.ts
+#EXTINF:0 tvg-id="FEF TV 10 Grupo 1" group-title="ES FEFTV",FEFTV 10
+http://99192014447595400.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595400.ts
+#EXTINF:0 tvg-id="FEF TV 1 Grupo 2" group-title="ES FEFTV",FEFTV 11
+http://99192014447595401.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595401.ts
+#EXTINF:0 tvg-id="FEF TV 2 Grupo 2" group-title="ES FEFTV",FEFTV 12
+http://99192014447595402.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595402.ts
+#EXTINF:0 tvg-id="FEF TV 3 Grupo 2" group-title="ES FEFTV",FEFTV 13
+http://99192014447595403.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595403.ts
+#EXTINF:0 tvg-id="FEF TV 4 Grupo 2" group-title="ES FEFTV",FEFTV 14
+http://99192014447595404.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595404.ts
+#EXTINF:0 tvg-id="FEF TV 5 Grupo 2" group-title="ES FEFTV",FEFTV 15
+http://99192014447595405.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595405.ts
+#EXTINF:0 tvg-id="FEF TV 6 Grupo 2" group-title="ES FEFTV",FEFTV 16
+http://99192014447595406.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595406.ts
+#EXTINF:0 tvg-id="FEF TV 7 Grupo 2" group-title="ES FEFTV",FEFTV 17
+http://99192014447595407.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595407.ts
+#EXTINF:0 tvg-id="FEF TV 8 Grupo 2" group-title="ES FEFTV",FEFTV 18
+http://99192014447595408.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595408.ts
+#EXTINF:0 tvg-id="FEF TV 9 Grupo 2" group-title="ES FEFTV",FEFTV 19
+http://99192014447595409.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595409.ts
+#EXTINF:0 tvg-id="FEF TV 10 Grupo 2" group-title="ES FEFTV",FEFTV 20
+http://99192014447595410.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595410.ts
 
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PELICULAS Y ENTRETENIMIENTO
 http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255182
