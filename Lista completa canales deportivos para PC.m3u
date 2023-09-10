@@ -15055,6 +15055,8 @@ http://533524635825550994.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550994.mkv
 http://533524635825550995.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550995.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Operaciaon_Kandahar-556642606-large.jpg",operacion kandahar (2023)
+http://127.0.0.1:6878/ace/getstream?id=f6c892815901d347dbccf44b8cfe25c77a7a1466
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_tutor-173692203-large.jpg",El tutor (2023)
 http://127.0.0.1:6878/ace/getstream?id=9e87135f71e7519bb318b00cb9f6cbf6e2cd771a
 #EXTINF:-1,tvg-logo="https://palomaynacho-1f321.kxcdn.com/wp-content/uploads/2023/01/poster-the-magic-flute-pelicula-.jpg",La flauta mágica (2023)
