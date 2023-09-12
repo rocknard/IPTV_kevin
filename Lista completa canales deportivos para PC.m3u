@@ -1322,7 +1322,7 @@ http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 http://127.0.0.1:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="Russian", Russian
+#EXTINF:-1,Adultos,0000 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="Russian", Russian
 http://127.0.0.1:6878/ace/getstream?id=9eedd5ce9dc29bac4e37e61288ed3304fad65733
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="Threesome", Threesome
@@ -15055,6 +15055,8 @@ http://533524635825550994.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550994.mkv
 http://533524635825550995.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550995.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",Barbie (2023)
+http://127.0.0.1:6878/ace/getstream?id=bb34a8a08c2305375a65d4019c4e471af7433347
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Sica-726207229-large.jpg",Sica (2023)
 http://127.0.0.1:6878/ace/getstream?id=aa753526fd861f9b1b613c6ca56814064ec2a99e
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Patti_y_la_furia_de_Poseidaon-604676660-large.jpg",Patti y la furia de Poseidón (2023)
@@ -15648,8 +15650,8 @@ http://127.0.0.1:6878/ace/getstream?id=928cc3055240e19fcc32f3d6af72efc748a79ba1
 http://127.0.0.1:6878/ace/getstream?id=6c47fe48e08a75357c090a59cfce4b1d80e8621d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNiMjkzMDItOWNjMy00ODZjLTgwY2UtZTEyODYzNTI2NzI1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_FMjpg_UX1000_.jpg",El gato con botas El ultimo deseo (2022)8.3
 http://127.0.0.1:6878/ace/getstream?id=5779606b661eaf8c011fb357a32e193a7d4d65b3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg",Avatar: el sentido del agua(2022)7.7
-http://127.0.0.1:6878/ace/getstream?id=50f86b209afdb40fd79c29cc4de84541852a8555
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg",Avatar: el sentido del agua(2022)
+http://127.0.0.1:6878/ace/getstream?id=6741b5e0d29492c284236e3fed4c758d571e284e
 #EXTINF:-1,tvg-logo="https://www.cine.com/peliculas4/105662/cartel/105662_cartel_orig.jpg",Medieval (2023) 7.2
 http://127.0.0.1:6878/ace/getstream?id=b559f5c161dc440f8f1aa9c5bba1cfe132bed2eb
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliZWQyZTItMDEzNy00YzNlLTkyMjktMTBjYTQ5MWIzMDZiXkEyXkFqcGdeQXVyMTAxNDgyMjM4._V1_FMjpg_UX1000_.jpg",A todo tren 2 Si les ha pasado otra vez (2023)7.8
