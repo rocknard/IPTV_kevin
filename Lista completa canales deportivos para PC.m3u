@@ -287,9 +287,8 @@ http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="ext", Evento del momento
-http://127.0.0.1:6878/ace/getstream?id=309380b5a2c02184f777826b6f1b1a81ac381b86
-
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", 21h Barcelona vs Betis UHD
+http://127.0.0.1:6878/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="ext", Evento del momento 
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
@@ -19569,25 +19568,25 @@ http://127.0.0.1:6878/ace/getstream?id=3e33f625798c8dfccd1d712de337a258b636e1c9
 http://127.0.0.1:6878/ace/getstream?id=d934e59de6ef939bc0a3c829e7783a33ffaa971b
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",La Estanquera De Vallecas(1987)6.2
 http://127.0.0.1:6878/ace/getstream?id=d7e96b2ecc0201d9ab84ae171833de6aaf91e057
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",group-title="kinki",Navajeros(1980)6.5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",group-title="kinki",Navajeros(1980)
 http://127.0.0.1:6878/ace/getstream?id=483bd46eb25265bdfdcc6360c25cb74092351d9f
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Matar al Nani(1988)5.8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Matar al Nani(1988)
 http://127.0.0.1:6878/ace/getstream?id=4ef34e37e35d021f5eb1e9131b8b43e9b46d15ab
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Lute (camina o revienta)(1987)6.6
 http://127.0.0.1:6878/ace/getstream?id=b8bcff9ed628ca3872572af52d36b3bc57e982a7
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Colegas(1982)6.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Colegas(1982)
 http://127.0.0.1:6878/ace/getstream?id=65487f262ed0cb80bd1e106139b1a1eca6947fd9
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJkZTliYjYtMjg3ZC00MDEwLWI3MmItMTM2NDdhN2UyNTU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Makinavaja El Ultimo Choriso(1992)5.7
 http://127.0.0.1:6878/ace/getstream?id=689d9b57511286d9aae2ddfdd157c7ac73f7af08
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyZmVlYzItZTUxYi00ZjIxLThiNzEtOWVhMzhhZTdjNDNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Semos Peligrosos(1993)5.1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyZmVlYzItZTUxYi00ZjIxLThiNzEtOWVhMzhhZTdjNDNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Semos Peligrosos(1993)
 http://127.0.0.1:6878/ace/getstream?id=17e012d49c0416fc7be9745aa5362c0b47289ac8 
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmZDIxNWYtNTc2OC00ODAxLThhODYtMTMzYWYwM2NkNjMyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Sufre Mamon(1987)4.7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmZDIxNWYtNTc2OC00ODAxLThhODYtMTMzYWYwM2NkNjMyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Sufre Mamon(1987)
 http://127.0.0.1:6878/ace/getstream?id=d06d89024a8f69369342226d7901436c1b143690
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxZDdiYmQtNmFjMi00MTZlLTlhYTMtZDk1YjM3ZjM1Mzc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Barrio(1998)7.1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxZDdiYmQtNmFjMi00MTZlLTlhYTMtZDk1YjM3ZjM1Mzc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Barrio(1998)
 http://127.0.0.1:6878/ace/getstream?id=df5cdb0feded7fc6a845a4611a12e53f1a69e8af
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Volando Voy(2006)6.3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Volando Voy(2006)
 http://127.0.0.1:6878/ace/getstream?id=782b0cf6a71928cdd50b55b0cdfb2d0a6bd53926
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM0MzcyZmQtZDI0OC00ZWQ1LWI3YmEtNmZhYjNlZmRiZTk4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Criando.Ratas(2016)6.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM0MzcyZmQtZDI0OC00ZWQ1LWI3YmEtNmZhYjNlZmRiZTk4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Criando.Ratas(2016)
 http://127.0.0.1:6878/ace/getstream?id=b95c27df37bc36ec61d10310629ed9be279966e8
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg",group-title="kinki",Las leyes de la frontera(2021)
 http://127.0.0.1:6878/ace/getstream?id=1e3378ba0b148c6a8a08393c7f0e4e727e1e6c7f
