@@ -210,11 +210,8 @@ http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
-http://127.0.0.1:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
-
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Jonathan
-http://127.0.0.1:6878/ace/getstream?id=37b382c9f9b1c55191f35ac90949457618f94060
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD
+http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080
 http://127.0.0.1:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
@@ -234,31 +231,34 @@ http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 720
 http://127.0.0.1:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD Electro
+http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
+
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara
 http://127.0.0.1:6878/ace/getstream?id=2429005c1005ab2e9750252039587781384782ca
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="F1" tvg-id="DAZN F1 HD", F1 TV [ES]
 http://127.0.0.1:6878/ace/getstream?id=7053fc8ab4d763d331ce66dc577d42fccc860481
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVP 720 [EN]
-http://127.0.0.1:6878/ace/getstream?id=77f28424b7539c83a7445d33e1f75c95e2d499ab
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV 720 [EN]
+http://127.0.0.1:6878/ace/getstream?id=77f28424b7539c83a7445d33e1f75c95e2d499ab 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVP 1080 [EN]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV 1080 [EN]
 http://127.0.0.1:6878/ace/getstream?id=410917d68b5325e3cd168c47b0899eb22868da8a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVPRO
 http://127.0.0.1:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a02
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="F1 TVPRO 1080 60fps", F1 TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV PRO 50fps
 http://127.0.0.1:6878/ace/getstream?id=bb2976a6e2296ffa562c91d761db5460f325bd1a
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 HD
 http://127.0.0.1:6878/ace/getstream?id=2260011d2520b1a93c8f371e2fb7fda07ace4ee5
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 UHD
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 UHD [DE]
 http://127.0.0.1:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 [DE]
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180430/pze/kisspng-nio-formula-e-team-logo-brand-5ae77a4a219680.8868016715251195621376.jpg" group-title="F1" tvg-id="Formula E", Formula E
@@ -15069,6 +15069,16 @@ http://533524635825550994.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550994.mkv
 http://533524635825550995.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550995.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Todo_sobre_mi_padre-328101088-large.jpg",Todo sobre mi padre (2023)
+http://127.0.0.1:6878/ace/getstream?id=114b1056da23ca3a25b23b3e11266e359fad5518
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Freestyle-320151079-mmed.jpg",Freestyle (2023)
+http://127.0.0.1:6878/ace/getstream?id=4fba20308229e49ad4aaff59ed05f0715503f171
+#EXTINF:-1,tvg-logo="https://estatico.emisiondof6.com/recorte/n/dispficha/F4116808?od[]=Z1V:MM3_V",La Espia (2023)
+http://127.0.0.1:6878/ace/getstream?id=aec5fa71fd30538bc82061b247b929e41f2395e5
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Padre_y_soldado-527381416-large.jpg",Padre y Soldado (2022)
+http://127.0.0.1:6878/ace/getstream?id=176be3688c5703c2367845170ef1e41421542693
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Reality-341974907-large.jpg",Reality (2023)
+http://127.0.0.1:6878/ace/getstream?id=b2684ac47cafda0c043e9b66939cea12342b7a4a
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",Barbie (2023)
 http://127.0.0.1:6878/ace/getstream?id=bb34a8a08c2305375a65d4019c4e471af7433347
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",Barbie (2023)
