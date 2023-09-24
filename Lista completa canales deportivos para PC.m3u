@@ -1410,6 +1410,8 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgE3YCsnebaq3YEQCLwwLsekXY
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/74378.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20622
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/MiguelSanlucar/dFM16QYzphbThkt/20622
@@ -1631,6 +1633,8 @@ http://533524635825321138.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321138.ts
 http://533524635825321139.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321139.ts
 #EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 SD
 http://533524635825321140.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321140.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA UHD 4K
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/65414.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA FHD
 http://533524635825321147.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321147.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA HD
