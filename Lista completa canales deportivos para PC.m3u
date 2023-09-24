@@ -1410,9 +1410,11 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgE3YCsnebaq3YEQCLwwLsekXY
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
-https://www.mitele.es/directo/gh-vip-24h-senal-1/
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/74378.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
-https://directos.mitele.es/orilinear14/live/linear14/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20622
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
+http://pinelodo.in:8880/MiguelSanlucar/dFM16QYzphbThkt/20622
 
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
@@ -1476,46 +1478,66 @@ http://fireott.biz:2052/802411455218374/802497856238254/96443
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 
-#EXTINF:0 tvg-id="FEF TV 1 Grupo 1" group-title="ES FEFTV",FEFTV 1
-http://99192014447595391.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595391.ts
-#EXTINF:0 tvg-id="FEF TV 2 Grupo 1" group-title="ES FEFTV",FEFTV 2
-http://99192014447595392.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595392.ts
-#EXTINF:0 tvg-id="FEF TV 3 Grupo 1" group-title="ES FEFTV",FEFTV 3
-http://99192014447595393.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595393.ts
-#EXTINF:0 tvg-id="FEF TV 4 Grupo 1" group-title="ES FEFTV",FEFTV 4
-http://99192014447595394.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595394.ts
-#EXTINF:0 tvg-id="FEF TV 5 Grupo 1" group-title="ES FEFTV",FEFTV 5
-http://99192014447595395.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595395.ts
-#EXTINF:0 tvg-id="FEF TV 6 Grupo 1" group-title="ES FEFTV",FEFTV 6
-http://99192014447595396.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595396.ts
-#EXTINF:0 tvg-id="FEF TV 7 Grupo 1" group-title="ES FEFTV",FEFTV 7
-http://99192014447595397.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595397.ts
-#EXTINF:0 tvg-id="FEF TV 8 Grupo 1" group-title="ES FEFTV",FEFTV 8
-http://99192014447595398.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595398.ts
-#EXTINF:0 tvg-id="FEF TV 9 Grupo 1" group-title="ES FEFTV",FEFTV 9
-http://99192014447595399.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595399.ts
-#EXTINF:0 tvg-id="FEF TV 10 Grupo 1" group-title="ES FEFTV",FEFTV 10
-http://99192014447595400.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595400.ts
-#EXTINF:0 tvg-id="FEF TV 1 Grupo 2" group-title="ES FEFTV",FEFTV 11
-http://99192014447595401.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595401.ts
-#EXTINF:0 tvg-id="FEF TV 2 Grupo 2" group-title="ES FEFTV",FEFTV 12
-http://99192014447595402.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595402.ts
-#EXTINF:0 tvg-id="FEF TV 3 Grupo 2" group-title="ES FEFTV",FEFTV 13
-http://99192014447595403.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595403.ts
-#EXTINF:0 tvg-id="FEF TV 4 Grupo 2" group-title="ES FEFTV",FEFTV 14
-http://99192014447595404.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595404.ts
-#EXTINF:0 tvg-id="FEF TV 5 Grupo 2" group-title="ES FEFTV",FEFTV 15
-http://99192014447595405.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595405.ts
-#EXTINF:0 tvg-id="FEF TV 6 Grupo 2" group-title="ES FEFTV",FEFTV 16
-http://99192014447595406.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595406.ts
-#EXTINF:0 tvg-id="FEF TV 7 Grupo 2" group-title="ES FEFTV",FEFTV 17
-http://99192014447595407.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595407.ts
-#EXTINF:0 tvg-id="FEF TV 8 Grupo 2" group-title="ES FEFTV",FEFTV 18
-http://99192014447595408.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595408.ts
-#EXTINF:0 tvg-id="FEF TV 9 Grupo 2" group-title="ES FEFTV",FEFTV 19
-http://99192014447595409.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595409.ts
-#EXTINF:0 tvg-id="FEF TV 10 Grupo 2" group-title="ES FEFTV",FEFTV 20
-http://99192014447595410.of090823.xyz:80/play/mi508893/C@tTnVkTRfE5/595410.ts
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 1
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20294
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 2
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20295
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 3
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20296
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 4
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20297
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 5
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20298
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 6
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20299
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 7
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20300
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 8
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20301
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 9
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20302
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 10
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20303
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 11
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20304
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 12
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20305
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 13
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20306
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 14
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20307
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 15
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20308
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 16
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20309
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 17
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20310
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 18
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20311
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 19
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20312
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 20
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20313
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 1
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20347
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 2
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20348
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 3
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20349
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 4
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20350
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 5
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20351
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 6
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20352
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 7
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20353
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 8
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20354
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 9
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20355
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 10
+http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20356
 
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PELICULAS Y ENTRETENIMIENTO
 http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255182
@@ -1611,6 +1633,8 @@ http://533524635825321138.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321138.ts
 http://533524635825321139.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321139.ts
 #EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 SD
 http://533524635825321140.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321140.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA UHD 4K
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/65414.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA FHD
 http://533524635825321147.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321147.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA HD
@@ -11171,6 +11195,8 @@ http://533524635825505586.of0828.xyz:80/movie/Zorro/R@AwjKJDpW/505586.mkv
 #EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2022 Plus",Re/Member (2022)
 http://533524635825505587.of0828.xyz:80/movie/Zorro/R@AwjKJDpW/505587.mkv
 
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",John Wick 4 (2023)
+http://pinelodo.in:8880/movie/aE5DtjEbYt/rffyAyjpS1/16962.mkv
 #EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",65 (2023)
 http://533524635825505707.of0828.xyz:80/movie/Zorro/R@AwjKJDpW/505707.mkv
 #EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Ant-Man and the Wasp: Quantumania [MULTI-SUB]
