@@ -617,7 +617,7 @@ http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Fox_Sports_Logos_%28Basico%2C_Premium%2C_HD%29.png" group-title="UK" tvg-id="Fox Sports Premium", Fox Sports Premium
-http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+http://127.0.0.1:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
@@ -760,6 +760,10 @@ http://127.0.0.1:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="Francia" tvg-id="beIN Sports 1", beIN Sports 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
+
+#EXTINF:-1 tvg-logo="https://d-art.ppstatic.pl/kadry/k/r/1/7c/f8/56e4dcfcb1bdb_o_full.jpg" group-title="Polonia" tvg-id="Polsat Sports HD", Polsat Sport Extra  Multicast 
+http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+
 #EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports HD", Eleven Sports 1
 http://127.0.0.1:6878/ace/getstream?id=c7696100b1a507ecfe43b4373feabadc02e42d54
 
@@ -789,6 +793,13 @@ http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+4+portugal.gif" group-title="Polonia" tvg-id="Eleven Sports 4", Eleven Sports 4
 http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+4+portugal.gif" group-title="Polonia" tvg-id="Eleven Sports 4", Eleven Sports 4
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fportugal%2feleven+sports+5+portugal.gif" group-title="Polonia" tvg-id="Eleven Sports 5", Eleven Sports 5
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 1", Magenta Sport 1
 http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
