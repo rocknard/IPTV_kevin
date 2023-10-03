@@ -1391,13 +1391,23 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtsE91NpipakugWmr2tSHSdwJhu
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 27-08
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgE3YCsnebaq3YEQCLwwLsekXYnujnjgLncU5uJtj2Vllusj9H1EHOcd36Ce6zEyoeBsyN3bHO2g2F_H6SE-_bN0DBtVDSfBGC79L05O6aH76tSPzy8YHN5jESIcUtSzmobkVSxGzgb-ClT0nM5sv8rFLUz7rjZwR4Cmf45YJfwrQvK1h5JnK6NreQ8GgnEYnlZV4Vj8g1GAfKS2qlTxxe7Eo2uLY5JgCQaxYdqsS7WCzPS8yb5Ncn-5BCmVZz2oPQJEOTdM20lij5L6bj7pv5RsN7eE-H8NSz-5sh1LK4zMR3tHMBUJiFHyqgD9PbhVCdMpdwiscUrZECH4g4mxr6XTXnjQNvbs7nwf81nFuH8rZ1GXrcEtP7IJOi1qAaR4ioKWZSkG4LK-64vEDoYdosgf3ygy1g4hV3uahkCoEP4fdu7-WfrBtxXq3hqtv8Qa5Rl7fDwV7mpqpXkRdP6Q9P2SCxmCzALJr0HLQBD23nHS91JDgGcw8ON249_jZsvYsw1po0WeOb4slaOd4piQi34yHc8qmgl0FUmTBG4T2emoVFmsG2Uirb8hLR9j0Hd2mYFUv1qFWf5ZPLPwCwb2kQ3uT94olsuoVuJ085-oSoey5KAxSMZtcS74mlE-i--GGBnvW61NqRCDCv5UASwkvMwBK6Hm9bTNPLk-z1PPijtCFcAfSS1jOTYs-eQO8ukKlFqo-K7JD4tzEe4WTkmH3k4GZSJ9lhrtlP7HFa_V5pRAeQLcfJIScI_tRoMFcTkmCqbbne5xkRgIAEqCWV1LXdlc3QtMTCsAw.m3u8
 
-
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/74378.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20622
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/MiguelSanlucar/dFM16QYzphbThkt/20622
+
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »1«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5774
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »2«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5775
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »3«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5776
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »4«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5777
 
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
@@ -1521,6 +1531,152 @@ http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20354
 http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20355
 #EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 10
 http://pinelodo.in:8880/AcacioTV1237/Q4Xx88afQE9B1vP/20356
+
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV INFO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10353
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 1
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20347
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 1
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20347
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 2
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20348
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 2
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20348
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 3
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20349
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 3
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20349
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 4
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20350
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 4
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20350
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 5
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20351
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 5
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20351
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 6
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20352
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 6
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20352
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 7
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20353
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 7
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20353
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 8
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20354
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 8
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20354
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 9
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20355
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 9
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20355
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 10
+http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20356
+#EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 10
+http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20356
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10354
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10355
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10356
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10357
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10358
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10359
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10360
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10361
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 9
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10362
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 10
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10363
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 11
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10364
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 12
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10365
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 13
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10366
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 14
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10367
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 15
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10368
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 16
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/425
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 17
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/426
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 18
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/427
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 19
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/428
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 20
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/429
+
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 1 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37104
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37105
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 3 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37106
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 4 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37107
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 5 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37108
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 6 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37109
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 7 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37110
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 8 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37111
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 9 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37112
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 10 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37113
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 11 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37114
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 12 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37115
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 13 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37116
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 14 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37117
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 15 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37118
+
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2ª RFEF TV (EVENTO 1)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37119
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2ª RFEF TV (EVENTO 2)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37120
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 3)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37121
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º REFEF TV (EVENTO 4)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37122
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 5)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37123
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 6)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37124
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 7)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37125
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 8)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37126
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 9)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37127
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 10)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37128
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 11)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37129
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 12)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37130
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 13)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37131
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 14)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37132
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 15)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37133
+
 
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PELICULAS Y ENTRETENIMIENTO
 http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255182
