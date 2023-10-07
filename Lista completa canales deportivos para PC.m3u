@@ -15248,6 +15248,16 @@ http://533524635825550994.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550994.mkv
 http://533524635825550995.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550995.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_hombre_del_saco-848302846-large.jpg",El hombre del saco (2023)
+http://127.0.0.1:6878/ace/getstream?id=68c524361d9a415bc1a4dc202203fad0f4f5eabc
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ajuste_de_cuentas_Muzzle-109482028-large.jpg",Ajuste de cuentas (Muzzle) (2023)
+http://127.0.0.1:6878/ace/getstream?id=64dbfd4791106c4e0d782e32b7606c459bc4a8d1
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/17900/17978/001_m.jpg",La monja 2 (2023)
+http://127.0.0.1:6878/ace/getstream?id=3c7bc52d33ceeb68854de46701b852388b901a6b
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mansiaon_encantada-135612291-large.jpg",Mansión encantada (2023)
+http://127.0.0.1:6878/ace/getstream?id=33da775ca00e9d492a75288cee326cc58176ce9e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPFFXah.png",The Equalizer 3 (2023)
+http://127.0.0.1:6878/ace/getstream?id=96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Asteroid_City-791120197-large.jpg",Asteroid City (2023) 
 http://127.0.0.1:6878/ace/getstream?id=2f702a2b4aff20f7e542ad281f503ddd9f72c38c
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Els_encantats_Los_encantados-309014660-large.jpg",Els encantats - Los encantados (2023) 
