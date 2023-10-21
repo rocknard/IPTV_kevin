@@ -132,7 +132,7 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 
 #EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 2
-http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 
 #EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 3
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
@@ -1385,8 +1385,8 @@ http://127.0.0.1:6878/ace/getstream?id=08055d9e1e149ae23c6c1ae0a25bff8b18ffb5a8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 30-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEoLMHKmiaOG5pi9sI-hdpXtItg8BjAKfCoOZMGjeBe80pnT1XjCFjmFDtqlBwRk6s5okVrzi9_k-MviaMwsegavx0qxjmvgZW-B11O6Gu0Pt2iVFE7QVtwCQAwK9EexGuLaKPGK51xeRQR__7NsVzqC5b_2hkqEIc2o2oSJZLilIk5Cv2wvAR2kBABBwAqP2YZVt9ZzpEzV5TDBytyvzmLfc7UfQG7eJS0u6g_lriBgI3jvlW8Uxl6SKb2rhbW8RqUq_88of7ECrY-ofJbKlaLC1mPekx9JAvfG5fen0557HsqpJgsdZvKKTKsUaSUxvLmaJDnp1Fa6z5qz_37RXJlU5TcYrBhgY60-2qSo0AWqn8C4BOFGWdFG5UnurjEu72gVKm3pBzrRofO7p8Z-tQeLVe7CXBl6EEGnctudUU4HZUYCjFGQjxHP2GJDiZmgDIZIUF_SSa02amY7b2PLjCYZs4cI4JHP1hyb7wBFswKEoglvLRJib_lH5s1r3vg7XuXatOu6r8HcK6MsX6Xs0lMWF7TqU1t8m9f6yOup5-Ae3EuJdJ8WGtzle8-l1m1XwVrE3qKmi3PEEk7qUUCgWqNU4cR8NL56JPCCz3HQfLhTZ-xBEtwmKbAqvmJ4gPteUccJoDbpAJKm0culEjvwWUG1_tkmgELXCKte_mw9EZVOvm3ZwLvoGGQaJCGwDscwVCXPObkLInCX6avCsLZw7QxuhcptIR7WyFIOKRwh3WfZVYFu3c61RQMGlXC0zWgEzK0h0d0G0X9uUHsjcQquLRn7IaDMaNcgEEfMr-T503CiABKglldS13ZXN0LTIw0wc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 23-09
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtsE91NpipakugWmr2tSHSdwJhukuD55NKCKkcTjrI4e1HnLHkZoyZVMAOEOLJyuMDoDw45-lK7Tbar93SQH5wUPoe3hvnT_F0pojx59RlDxDtC2-OPOLCu9GRbRcA4CN31VNNGzNWA7bqPh0Sh8mKpv46y8A5eRpdRzKX5jcut2Alapf77MlSIgRocrzyXpNz3wwwKjLcukbeevC_w-PtSeo2oB6BfBuS8hjhCokCJ68Ck6w2KNSzuri0clEqQtXbpkSgZhwTM0c2j1Ear4kw1kAftmr6siLNLpSxUHICg5g0s3MR-aF_e3w6VzrLPxA4m6v_mYUZJWJkYlHnIM1yAgdASEFOh4s7LHtZ2SVK5GbGeslwGHwxVKCLeL2hHJ2O_jdkGKyV9JuLdREJDFtqP7OTccHPC3_9sBoy1Kj3v4XoQ96f9cCr_-uYJu2ISo5DH-bnmQ918r3Uw39EKnIRNI7YMcH1oo1YTG5GMVDLu6ErNtucKE6Elh-03PJ5oeFUKC__z0fd_lt6x5R3LPgBa-cg_080D1Q8wIf6WdjKtHKc8KA4kqfQGqUZoUtkZADweguKJ6qxIpGiu-1FreuPF-JohzyQ58jKjZ5liwtJtGi1YYM99IGvcuwgdFEmTRydLKb0c2pC-a2fWAXxI4LDJu7dN8m4JIEQIXiNcRFrkl2QkEMoVt8ncwUyd6uXld7Ia5FUFwttbq3U8j7mIxdxEQW5rMPNIqgrlU-h0B3FqglaonMUMnlIuV8dIOKqL3eMNoHw5O44oH-SuQjkMVV0mrRZxRSguUepMVyPdVGgxdc_Nu-irTpcsK49QgASoJZXUtd2VzdC0yMMwH.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 21-10
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0EYjEf72VEqCfUoLfV5IoH5s2DDEjDd0qnCY9Hpet7ibBI0ya2aB6ASnXb_vM4WqTB6O82oJx70h-YAjpLtTdaQ7jwknNcW2ZwgGaYwB3Ify30EBYh9DWi1wvfX9Vy5K9frdfTVerkUdz1JzYhgv_i3hAjHrxbHpxbQwDoJQf62hdJKH-gQPLIesIsxiH0yhvHjovFJycd2ZOi3te2h_XvTP1a-Got23LvgJGqoiRcmOtScrqtvlKgY7y00NlfVDBR0vDzos-7OdnaXxgcr1kfgWjtrB7uQe0HJIAtYGQQRLZJWkXcsqPw9KM2S7DgiwnFQpzygux8vOuOppmAJw1trJXjnBaVyPtVi8F9YBfMwVYyFonj0JOgFbbZktVN8xWn55XYApHZRs1ehqce-jEAy9G7MQkN3YAbbILsNONB9uhZS7Zi4qbP1X5DLimmmF9cbCqwpfYWrwNBYHGDNf6LFPV35WkFGL8g8pCvcjMjjVlNsACtcf4Tzgean6VNdHilKBwFREmTnyX-JRuNXJbTfKtLSjVc_rQWCoE-cOn6_yAuw_WQt-b4p4M4zE3PMEXgxUdC6ZvIg4B4FlVSOCQuSiX_xHws2J2DiOURAbrLkn-_ng2jlebVwE3WA5yf1SMX6OyQbStI0Gqou6u41O30DEvjTtsNi5aMjcnvN_gLd0uwnWIAXbmqWNzRBhy-j8NEGtgR87iwx6m3vyUSeaUJyAdcPpaSOe6U3I5xeuXXsrEUAUo1qqmzBET-Br_-rUT214uaJ8EJ8V9LfWVngmsZ2SnDtMmAQGIcu-uaUzkaDPfgEIYZZ9HUXcfliSABKglldS13ZXN0LTEw3gM.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 27-08
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgE3YCsnebaq3YEQCLwwLsekXYnujnjgLncU5uJtj2Vllusj9H1EHOcd36Ce6zEyoeBsyN3bHO2g2F_H6SE-_bN0DBtVDSfBGC79L05O6aH76tSPzy8YHN5jESIcUtSzmobkVSxGzgb-ClT0nM5sv8rFLUz7rjZwR4Cmf45YJfwrQvK1h5JnK6NreQ8GgnEYnlZV4Vj8g1GAfKS2qlTxxe7Eo2uLY5JgCQaxYdqsS7WCzPS8yb5Ncn-5BCmVZz2oPQJEOTdM20lij5L6bj7pv5RsN7eE-H8NSz-5sh1LK4zMR3tHMBUJiFHyqgD9PbhVCdMpdwiscUrZECH4g4mxr6XTXnjQNvbs7nwf81nFuH8rZ1GXrcEtP7IJOi1qAaR4ioKWZSkG4LK-64vEDoYdosgf3ygy1g4hV3uahkCoEP4fdu7-WfrBtxXq3hqtv8Qa5Rl7fDwV7mpqpXkRdP6Q9P2SCxmCzALJr0HLQBD23nHS91JDgGcw8ON249_jZsvYsw1po0WeOb4slaOd4piQi34yHc8qmgl0FUmTBG4T2emoVFmsG2Uirb8hLR9j0Hd2mYFUv1qFWf5ZPLPwCwb2kQ3uT94olsuoVuJ085-oSoey5KAxSMZtcS74mlE-i--GGBnvW61NqRCDCv5UASwkvMwBK6Hm9bTNPLk-z1PPijtCFcAfSS1jOTYs-eQO8ukKlFqo-K7JD4tzEe4WTkmH3k4GZSJ9lhrtlP7HFa_V5pRAeQLcfJIScI_tRoMFcTkmCqbbne5xkRgIAEqCWV1LXdlc3QtMTCsAw.m3u8
@@ -1410,29 +1410,29 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5776
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5777
 
 
-#EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", TVE1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="https://www.gratistodo.com/wp-content/uploads/2021/12/La-1.png" group-title="Movistar TDT", TVE1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_720.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-id="TV3 HD" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Esports 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-esport-3-614.png" group-title="Movistar TDT", Esports 3
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master-720p.m3u8
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 FHD
-http://398538678963321105.ofio.xyz:80/play/Benicarlo/Paco/321105.ts
+https://atres-live.atresmedia.com/92e76490a5372d95753ea7b0f82c691c55038e74_ES_1697120889_1697149629/h264/live/antena3/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT", CUATRO FHD
-http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
+http://607145121490321197.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321197.ts
 
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TELECINCO FHD
-http://398538678963321429.ofio.xyz:80/play/Benicarlo/Paco/321429.ts
+http://607145121490321430.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321430.ts
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA FHD
-http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
+http://607145121490321289.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321289.ts
 
 #EXTINF:-1 tvg-id="LA SIETE HD" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
 http://398538678963165298.ofio.xyz:80/play/Benicarlo/Paco/165298.ts
@@ -1441,16 +1441,16 @@ http://398538678963165298.ofio.xyz:80/play/Benicarlo/Paco/165298.ts
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
-http://398538678963272448.ofio.xyz:80/play/Benicarlo/Paco/272448.ts
+http://607145121490538662.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/538662.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ARAGON TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar TDT", BE MAD
-http://398538678963321125.ofio.xyz:80/play/Benicarlo/Paco/321125.ts
+http://607145121490321126.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321126.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Murcia" tvg-logo="" group-title="Movistar TDT", Murcia
-http://398538678963381751.ofio.xyz:80/play/Benicarlo/Paco/381751.ts
+http://607145121490336361.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/336361.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
@@ -19793,13 +19793,13 @@ http://127.0.0.1:6878/ace/getstream?id=0d614bfbdd5ec62566b83b2497f7d4b4e20ab30c
 http://127.0.0.1:6878/ace/getstream?id=3e33f625798c8dfccd1d712de337a258b636e1c9
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMTFlMmMtMzY2MC00MjRkLWFhYTctYTJhZWU5N2Y0ODJkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Deprisa Deprisa(1981)6.9
 http://127.0.0.1:6878/ace/getstream?id=d934e59de6ef939bc0a3c829e7783a33ffaa971b
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",La Estanquera De Vallecas(1987)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",La Estanquera De Vallecas(1987)6.2
 http://127.0.0.1:6878/ace/getstream?id=d7e96b2ecc0201d9ab84ae171833de6aaf91e057
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",group-title="kinki",Navajeros(1980)
 http://127.0.0.1:6878/ace/getstream?id=483bd46eb25265bdfdcc6360c25cb74092351d9f
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Matar al Nani(1988)
 http://127.0.0.1:6878/ace/getstream?id=4ef34e37e35d021f5eb1e9131b8b43e9b46d15ab
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Lute (camina o revienta)(1987)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Lute (camina o revienta)(1987)6.6
 http://127.0.0.1:6878/ace/getstream?id=b8bcff9ed628ca3872572af52d36b3bc57e982a7
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Colegas(1982)
 http://127.0.0.1:6878/ace/getstream?id=65487f262ed0cb80bd1e106139b1a1eca6947fd9
