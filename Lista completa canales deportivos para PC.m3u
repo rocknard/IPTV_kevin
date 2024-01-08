@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
@@ -15254,6 +15254,18 @@ http://533524635825550994.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550994.mkv
 http://533524635825550995.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550995.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1 tvg-logo="https://cdnb.20m.es/sites/165/2023/07/trailer-napoleon-2023-joaquin-phoenix.jpg",Napoleón (2023)
+http://127.0.0.1:6878/ace/getstream?id=276ce13777bf645981de88a1b89704e80c53e4fc
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Saben_aquell-806417535-mmed.jpg",Saben Aquell (2023)
+http://127.0.0.1:6878/ace/getstream?id=ce16d7a78b8816c6f1d1b9bfd877b1f373c9c529
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hQtqBmf0AVY/default.jpg",La Manzana de oro (2023)
+http://127.0.0.1:6878/ace/getstream?id=fd8811592c0ef3f383bdeb5e93bc3a42b956469b
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/After_Aquai_acaba_todo-570162347-large.jpg",After aquí acaba todo (2023)
+http://127.0.0.1:6878/ace/getstream?id=288a13ad5e1b208e232069ce36bec01bba654287
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-exorcist-believer/images/regions/pe/tt_mobile.png",El Exorcista Creyentes (2023)
+http://127.0.0.1:6878/ace/getstream?id=530e07d2ce73aaab2fb5200a2c09f3fe487389da
+#EXTINF:-1 tvg-logo="https://www.youplanetpictures.com/wp-content/uploads/2023/04/AMAZON-1200x1600-4.jpg",Boon El protector (2022)
+http://127.0.0.1:6878/ace/getstream?id=b12cc9ed9ce9cd7cc9f981ce0b1fea127e4d1632
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",Campeonex (2023)
 http://127.0.0.1:6878/ace/getstream?id=11771d7b23eb571056451f0ac720c1fcf77226ff
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/aUltima_noche_en_Milaan-505179490-large.jpg",Última noche en Milán (2023)
