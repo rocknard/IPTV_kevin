@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
@@ -15255,7 +15255,7 @@ http://533524635825550995.of0828.xyz:80/series/Zorro/R@AwjKJDpW/550995.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
 #EXTINF:-1 tvg-logo="https://cdnb.20m.es/sites/165/2023/07/trailer-napoleon-2023-joaquin-phoenix.jpg",Napoleón (2023)
-http://127.0.0.1:6878/ace/getstream?id=276ce13777bf645981de88a1b89704e80c53e4fc
+http://127.0.0.1:6878/ace/getstream?id=9a6a0bf17dd15aea190f509599dd92bf4cd68ddd
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Saben_aquell-806417535-mmed.jpg",Saben Aquell (2023)
 http://127.0.0.1:6878/ace/getstream?id=ce16d7a78b8816c6f1d1b9bfd877b1f373c9c529
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hQtqBmf0AVY/default.jpg",La Manzana de oro (2023)
